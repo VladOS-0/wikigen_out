@@ -943,8 +943,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -1050,8 +1050,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -1087,8 +1087,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -1118,8 +1118,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -1149,8 +1149,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/synth_blood",
@@ -1196,8 +1196,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [
@@ -5702,7 +5702,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_yellow",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_yellow-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_yellow-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -5758,7 +5758,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "americano",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-americano-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-americano-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -5944,7 +5944,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "banana",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-banana-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-banana-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -6171,7 +6171,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "berryjuice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-berryjuice-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-berryjuice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -6329,7 +6329,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bluecherryshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bluecherryshake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bluecherryshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -6448,7 +6448,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_yellow",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_yellow-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_yellow-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -6492,7 +6492,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "buzz_fuzz",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-buzz_fuzz-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-buzz_fuzz-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -6529,7 +6529,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cafe_latte",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cafe_latte-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cafe_latte-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -6775,7 +6775,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "carrotjuice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-carrotjuice-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-carrotjuice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -6819,7 +6819,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "teaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-teaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-teaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -6971,7 +6971,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cherryshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cherryshake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cherryshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -7045,7 +7045,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "chocolatepudding",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-chocolatepudding-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-chocolatepudding-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -7207,7 +7207,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_white",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_white-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_white-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -7238,7 +7238,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_brown",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_brown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_brown-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -7796,7 +7796,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_white",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_white-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_white-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -7839,7 +7839,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cream_soda",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cream_soda-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cream_soda-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -7923,7 +7923,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "doctorsdelightglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-doctorsdelightglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-doctorsdelightglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -7988,7 +7988,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "dr_gibb_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -8068,7 +8068,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "nog3",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-nog3-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-nog3-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8483,8 +8483,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "absinthe",
       "shot_glass_icon_state": "shotglassgreen",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-absinthe-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-absinthe-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -8531,7 +8531,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "acidspitglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-acidspitglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-acidspitglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8577,7 +8577,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "admiralty",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-admiralty-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-admiralty-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8624,7 +8624,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "aleglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-aleglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-aleglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -8667,7 +8667,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "alexander",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-alexander-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-alexander-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8720,7 +8720,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "alliescocktail",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-alliescocktail-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-alliescocktail-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8766,7 +8766,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "aloe",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-aloe-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-aloe-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8812,8 +8812,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "amarettoglass",
       "shot_glass_icon_state": "shotglassgold",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-amarettoglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgold-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-amarettoglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgold-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -8849,7 +8849,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "alexanderam",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-alexanderam-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-alexanderam-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8896,7 +8896,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "amasecglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-amasecglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-amasecglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8943,7 +8943,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "andalusia",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-andalusia-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-andalusia-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -8990,7 +8990,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "antifreeze",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-antifreeze-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-antifreeze-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9037,7 +9037,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "applejack_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-applejack_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-applejack_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -9080,7 +9080,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "atomicbombglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-atomicbombglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-atomicbombglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9132,8 +9132,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "b52glass",
       "shot_glass_icon_state": "b52glass",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-b52glass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-b52glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-b52glass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-b52glass-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/b52",
@@ -9179,7 +9179,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bacchusblessing",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bacchusblessing-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bacchusblessing-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9227,7 +9227,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bahama_mama",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bahama_mama-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bahama_mama-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9275,7 +9275,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bananahonkglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bananahonkglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bananahonkglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9321,7 +9321,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "b&p",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-b&p-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-b&p-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9368,8 +9368,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bastion_bourbon",
       "shot_glass_icon_state": "shotglassgreen",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bastion_bourbon-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bastion_bourbon-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/bastion_bourbon",
@@ -9416,7 +9416,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "beepskysmashglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-beepskysmashglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-beepskysmashglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9533,7 +9533,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "greenbeerglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-greenbeerglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-greenbeerglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9616,7 +9616,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "between_the_sheets",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-between_the_sheets-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-between_the_sheets-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9662,7 +9662,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_brown",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_brown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_brown-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9708,7 +9708,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bitters",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bitters-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bitters-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -9745,7 +9745,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "blackrussianglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-blackrussianglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-blackrussianglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9791,7 +9791,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "blank_paper",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-blank_paper-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-blank_paper-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9838,7 +9838,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "blazaamglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-blazaamglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-blazaamglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9891,7 +9891,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bloodymaryglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bloodymaryglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bloodymaryglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9938,7 +9938,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "booger",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-booger-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-booger-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -9986,7 +9986,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "minted_fernet",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-minted_fernet-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-minted_fernet-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10033,7 +10033,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bravebullglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bravebullglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bravebullglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10079,7 +10079,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bug_spray",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bug_spray-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bug_spray-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10127,7 +10127,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "champagne_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-champagne_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-champagne_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -10164,7 +10164,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "changelingsting",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-changelingsting-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-changelingsting-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10216,7 +10216,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "chemicalex",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-chemicalex-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-chemicalex-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10263,7 +10263,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cogchamp",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cogchamp-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cogchamp-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10310,8 +10310,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cognacglass",
       "shot_glass_icon_state": "shotglassbrown",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cognacglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cognacglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -10353,7 +10353,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "commander_and_chief",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-commander_and_chief-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-commander_and_chief-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10402,7 +10402,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_brown",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_brown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_brown-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -10439,7 +10439,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_white",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_white-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_white-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -10476,7 +10476,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_green",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_green-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_green-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -10513,7 +10513,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "crevice_spike",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-crevice_spike-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-crevice_spike-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10559,7 +10559,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cubalibreglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cubalibreglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cubalibreglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10605,8 +10605,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cum_glass",
       "shot_glass_icon_state": "cum_shot",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cum_glass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-cum_shot-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cum_glass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-cum_shot-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/cum_in_a_hot_tub",
@@ -10652,8 +10652,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cum_glass",
       "shot_glass_icon_state": "cum_shot",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-cum_glass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-cum_shot-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-cum_glass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-cum_shot-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/cum_in_a_hot_tub/semen",
@@ -10699,7 +10699,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "curacao",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-curacao-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-curacao-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -10736,7 +10736,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "dark_and_stormy",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-dark_and_stormy-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-dark_and_stormy-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10782,7 +10782,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "demonsblood",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-demonsblood-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-demonsblood-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10830,7 +10830,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "devilskiss",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-devilskiss-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-devilskiss-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10877,7 +10877,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "driestmartiniglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-driestmartiniglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-driestmartiniglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10923,7 +10923,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "drunkenblumpkin",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-drunkenblumpkin-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-drunkenblumpkin-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -10970,7 +10970,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "duplex",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-duplex-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-duplex-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11017,7 +11017,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "nog3",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-nog3-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-nog3-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11063,7 +11063,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "erikasurprise",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-erikasurprise-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-erikasurprise-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11112,7 +11112,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "fanciulli",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-fanciulli-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-fanciulli-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11201,7 +11201,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "godlyblend",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-godlyblend-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-godlyblend-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11247,7 +11247,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "fetching_fizz",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-fetching_fizz-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-fetching_fizz-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11293,7 +11293,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "fringe_weaver",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-fringe_weaver-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-fringe_weaver-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11370,7 +11370,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "gargleblasterglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-gargleblasterglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-gargleblasterglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11425,7 +11425,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "ginvodkaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-ginvodkaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-ginvodkaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -11468,7 +11468,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "ginfizzglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-ginfizzglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-ginfizzglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11515,7 +11515,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "gingeramaretto",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-gingeramaretto-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-gingeramaretto-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11563,7 +11563,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "gintonicglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-gintonicglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-gintonicglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11609,7 +11609,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "godfather",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-godfather-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-godfather-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11655,7 +11655,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "godmother",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-godmother-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-godmother-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11701,8 +11701,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "goldschlagerglass",
       "shot_glass_icon_state": "shotglassgold",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-goldschlagerglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgold-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-goldschlagerglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgold-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/goldschlager",
@@ -11753,7 +11753,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "grappa",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-grappa-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-grappa-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11806,7 +11806,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "grasshopper",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-grasshopper-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-grasshopper-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11853,7 +11853,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "grogglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-grogglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-grogglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11899,7 +11899,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "gunfire",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-gunfire-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-gunfire-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -11945,8 +11945,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiskeyglass",
       "shot_glass_icon_state": "shotglassbrown",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiskeyglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiskeyglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -11988,7 +11988,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "heartofgold",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-heartofgold-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-heartofgold-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12035,7 +12035,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hearty_punch",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hearty_punch-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hearty_punch-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12088,7 +12088,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hellfire",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hellfire-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hellfire-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12135,7 +12135,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hippiesdelightglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hippiesdelightglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hippiesdelightglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12181,7 +12181,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hiveminderaser",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hiveminderaser-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hiveminderaser-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12228,7 +12228,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_brown2",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_brown2-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_brown2-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12276,7 +12276,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hotlime_miami",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hotlime_miami-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hotlime_miami-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12322,7 +12322,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "iced_beerglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-iced_beerglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-iced_beerglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12368,7 +12368,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "ionstorm",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-ionstorm-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-ionstorm-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12414,7 +12414,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "irishcreamglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-irishcreamglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-irishcreamglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12460,7 +12460,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "irishcarbomb",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-irishcarbomb-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-irishcarbomb-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12506,7 +12506,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "irishcoffeeglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-irishcoffeeglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-irishcoffeeglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12552,7 +12552,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "isolationcell",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-isolationcell-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-isolationcell-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12599,7 +12599,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "isolationcell",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-isolationcell-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-isolationcell-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12646,7 +12646,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "jack_rose",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-jack_rose-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-jack_rose-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12693,8 +12693,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "kahluaglass",
       "shot_glass_icon_state": "shotglasscream",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-kahluaglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglasscream-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-kahluaglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglasscream-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/kahlua",
@@ -12758,7 +12758,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "kamikaze",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-kamikaze-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-kamikaze-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12805,7 +12805,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "lean",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-lean-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-lean-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12852,7 +12852,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "liz_fizz",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-liz_fizz-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-liz_fizz-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12899,8 +12899,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "plumwineglass",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-plumwineglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-plumwineglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -12936,7 +12936,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "long_haul",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-long_haul-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-long_haul-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -12985,7 +12985,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "long_john_silver",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-long_john_silver-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-long_john_silver-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13032,7 +13032,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "longislandicedteaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-longislandicedteaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-longislandicedteaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13080,7 +13080,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "malibu_sunset",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-malibu_sunset-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-malibu_sunset-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13128,7 +13128,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "manhattanglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-manhattanglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-manhattanglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13174,7 +13174,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "proj_manhattanglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-proj_manhattanglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-proj_manhattanglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13220,7 +13220,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "manlydorfglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-manlydorfglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-manlydorfglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13272,7 +13272,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "margaritaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-margaritaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-margaritaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13318,7 +13318,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "martiniglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-martiniglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-martiniglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13364,7 +13364,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "mauna_loa",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-mauna_loa-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-mauna_loa-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13411,7 +13411,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "meadglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-meadglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-meadglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13464,7 +13464,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "mech_rider_bottle",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-mech_rider_bottle-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-mech_rider_bottle-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13512,7 +13512,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "miami_vice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-miami_vice-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-miami_vice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13558,7 +13558,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "midnight_joy",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-midnight_joy-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-midnight_joy-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13612,7 +13612,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "midnight_sky",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-midnight_sky-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-midnight_sky-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13667,7 +13667,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "midnight_tears",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-midnight_tears-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-midnight_tears-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13721,7 +13721,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "mojito",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-mojito-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-mojito-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13770,7 +13770,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13835,7 +13835,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "moscow_mule",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-moscow_mule-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-moscow_mule-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13883,7 +13883,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "mothinchief",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-mothinchief-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-mothinchief-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13931,7 +13931,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "narsour",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-narsour-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-narsour-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -13984,7 +13984,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "ginvodkaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-ginvodkaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-ginvodkaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -14026,7 +14026,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "neurotoxinglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-neurotoxinglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-neurotoxinglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14130,7 +14130,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "old_timer",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-old_timer-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-old_timer-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14177,7 +14177,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "painkiller",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-painkiller-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-painkiller-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14285,8 +14285,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "patronglass",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-patronglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-patronglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/patron",
@@ -14337,7 +14337,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "peppermint_patty",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-peppermint_patty-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-peppermint_patty-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14386,7 +14386,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "pina_colada",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-pina_colada-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-pina_colada-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14434,7 +14434,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "pinotmort",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-pinotmort-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-pinotmort-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14481,7 +14481,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "planet_cracker",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-planet_cracker-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-planet_cracker-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14529,7 +14529,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "quadruple_sec",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-quadruple_sec-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-quadruple_sec-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14576,7 +14576,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "quintuple_sec",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-quintuple_sec-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-quintuple_sec-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14629,7 +14629,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "red_meadglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-red_meadglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-red_meadglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14675,7 +14675,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "rubberneck",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-rubberneck-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-rubberneck-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14722,8 +14722,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "rumglass",
       "shot_glass_icon_state": "shotglassbrown",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-rumglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-rumglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -14765,7 +14765,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiskeycolaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiskeycolaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiskeycolaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14811,7 +14811,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "sakecup",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-sakecup-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-sakecup-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14870,7 +14870,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "salt_and_swell",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-salt_and_swell-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-salt_and_swell-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14918,7 +14918,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "sbitenglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-sbitenglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-sbitenglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -14964,7 +14964,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "screwdriverglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-screwdriverglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-screwdriverglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15010,7 +15010,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "sidecar",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-sidecar-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-sidecar-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15057,7 +15057,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "silencerglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-silencerglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-silencerglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15104,7 +15104,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "singulo",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-singulo-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-singulo-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15151,7 +15151,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "sins_delight",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-sins_delight-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-sins_delight-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15199,7 +15199,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "skullfucker",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-skullfucker-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-skullfucker-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15246,7 +15246,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "snowwhite",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-snowwhite-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-snowwhite-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15323,7 +15323,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "abduction_fruit",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-abduction_fruit-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-abduction_fruit-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15370,7 +15370,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bug_zapper",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bug_zapper-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bug_zapper-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15417,7 +15417,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "coldscales",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-coldscales-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-coldscales-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15464,7 +15464,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "darkbrew",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-darkbrew-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-darkbrew-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15511,7 +15511,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "frisky_kitty",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-frisky_kitty-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-frisky_kitty-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15557,7 +15557,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hollow_bone",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hollow_bone-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hollow_bone-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15604,7 +15604,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "jell_wyrm",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-jell_wyrm-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-jell_wyrm-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15651,7 +15651,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "laval_spit",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-laval_spit-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-laval_spit-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15698,7 +15698,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "mush_crush",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-mush_crush-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-mush_crush-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15745,7 +15745,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "nord_king",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-nord_king-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-nord_king-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15792,7 +15792,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "oil_drum",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-oil_drum-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-oil_drum-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15839,7 +15839,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "velvet_kiss",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-velvet_kiss-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-velvet_kiss-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15886,8 +15886,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "squirt_cider",
       "shot_glass_icon_state": "shotglassgreen",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-squirt_cider-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-squirt_cider-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/squirt_cider",
@@ -15933,7 +15933,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "stinger",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-stinger-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-stinger-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -15979,7 +15979,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "strawberry_daiquiri",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-strawberry_daiquiri-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-strawberry_daiquiri-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16028,7 +16028,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "sugar_rush",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-sugar_rush-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-sugar_rush-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16075,7 +16075,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "syndicatebomb",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-syndicatebomb-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-syndicatebomb-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16127,8 +16127,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tequilaglass",
       "shot_glass_icon_state": "shotglassgold",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tequilaglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgold-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tequilaglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgold-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -16170,7 +16170,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tequilasunriseglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tequilasunriseglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tequilasunriseglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16217,7 +16217,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "thirteen_loko_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-thirteen_loko_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-thirteen_loko_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16276,7 +16276,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "threemileislandglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-threemileislandglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-threemileislandglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16322,7 +16322,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tich_toch",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tich_toch-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tich_toch-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16369,7 +16369,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tiltaellen",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tiltaellen-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tiltaellen-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16416,8 +16416,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "toxinsspecialglass",
       "shot_glass_icon_state": "toxinsspecialglass",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-toxinsspecialglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-toxinsspecialglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-toxinsspecialglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-toxinsspecialglass-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/toxins_special",
@@ -16463,7 +16463,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "trappistglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-trappistglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-trappistglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16516,7 +16516,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_orange",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_orange-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_orange-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -16553,7 +16553,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tropical_storm",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tropical_storm-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tropical_storm-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16601,7 +16601,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "turbo",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-turbo-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-turbo-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16649,7 +16649,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "twinkdrink",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-twinkdrink-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-twinkdrink-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16696,8 +16696,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "vermouthglass",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-vermouthglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-vermouthglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -16739,8 +16739,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "ginvodkaglass",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-ginvodkaglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-ginvodkaglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/vodka",
@@ -16808,7 +16808,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "martiniglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-martiniglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-martiniglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16854,7 +16854,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "vodkatonicglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-vodkatonicglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-vodkatonicglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16900,8 +16900,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiskeyglass",
       "shot_glass_icon_state": "shotglassbrown",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiskeyglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiskeyglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassbrown-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -16953,7 +16953,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiskeycolaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiskeycolaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiskeycolaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -16999,7 +16999,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiskey_sour",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiskey_sour-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiskey_sour-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17046,7 +17046,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiskeysodaglass2",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiskeysodaglass2-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiskeysodaglass2-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17092,7 +17092,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "whiterussianglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-whiterussianglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-whiterussianglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17138,8 +17138,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "wineglass",
       "shot_glass_icon_state": "shotglassred",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-wineglass-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-wineglass-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/wine",
@@ -17202,7 +17202,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "wizz_fizz",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-wizz_fizz-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-wizz_fizz-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17431,7 +17431,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "gibbfloats",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-gibbfloats-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-gibbfloats-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17617,7 +17617,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "grey_bull_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-grey_bull_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-grey_bull_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -17764,7 +17764,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "honeystones_love",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-honeystones_love-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-honeystones_love-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17812,7 +17812,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "chocolateglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-chocolateglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-chocolateglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -17910,7 +17910,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "iceglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-iceglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-iceglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -17970,7 +17970,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "iced_americano",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-iced_americano-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-iced_americano-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18016,7 +18016,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "icedcoffeeglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-icedcoffeeglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-icedcoffeeglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18062,7 +18062,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "iced_latte",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-iced_latte-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-iced_latte-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18108,7 +18108,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "iced_raf",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-iced_raf-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-iced_raf-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18154,7 +18154,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "icedteaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-icedteaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-icedteaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18326,7 +18326,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "kvassglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_bluemoon-icons-obj-drinks-dmi-kvassglass-2.gif",
+      "parsed_glass_icon": "./images/modular_bluemoon-icons-obj-drinks-dmi-kvassglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18496,7 +18496,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_yellow",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_yellow-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_yellow-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -18539,7 +18539,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "lemonpitcher",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-lemonpitcher-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-lemonpitcher-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -18587,7 +18587,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "lemonglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-lemonglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-lemonglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -18642,7 +18642,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_green",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_green-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_green-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -18796,7 +18796,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_yellow",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_yellow-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_yellow-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -18858,7 +18858,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_green",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_green-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_green-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -18906,7 +18906,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "milkglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-milkglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-milkglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -18954,7 +18954,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "milkglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-milkglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-milkglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19000,7 +19000,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "pinkmilk",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-pinkmilk-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-pinkmilk-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19046,7 +19046,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "bananashake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-bananashake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bananashake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19092,7 +19092,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "vanillashake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-vanillashake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-vanillashake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19139,7 +19139,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "berryshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-berryshake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-berryshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19185,7 +19185,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "choccyshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-choccyshake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-choccyshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19231,7 +19231,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "colashake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-colashake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-colashake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19277,7 +19277,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "gibbshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-gibbshake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-gibbshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19323,7 +19323,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "melonshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-melonshake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-melonshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19369,7 +19369,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "peachshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-peachshake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-peachshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19415,7 +19415,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "pineappleshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-pineappleshake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-pineappleshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19461,7 +19461,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "strawberryshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-strawberryshake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-strawberryshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19507,7 +19507,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "vanillashake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-vanillashake-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-vanillashake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19553,7 +19553,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "watermelonshake",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-watermelonshake-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-watermelonshake-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -19599,7 +19599,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "monkey_energy_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-monkey_energy_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-monkey_energy_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -19689,8 +19689,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "nothing",
       "shot_glass_icon_state": "shotglass",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-nothing-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-nothing-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglass-2.gif",
       "recipes": [],
       "containers": [
         {
@@ -19785,7 +19785,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "nuka_colaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-nuka_colaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-nuka_colaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -25325,7 +25325,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "orangecreamsicle",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-orangecreamsicle-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-orangecreamsicle-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -25373,7 +25373,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_orange",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_orange-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_orange-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -25849,7 +25849,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "poisonberryjuice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-poisonberryjuice-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-poisonberryjuice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -25887,7 +25887,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_brown",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_brown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_brown-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -25937,7 +25937,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "pumpkin_latte",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-pumpkin_latte-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-pumpkin_latte-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26028,7 +26028,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26123,7 +26123,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "raf",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-raf-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-raf-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26208,7 +26208,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "red_queen",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-red_queen-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-red_queen-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26349,7 +26349,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cumchalice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26422,7 +26422,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cumchalice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26490,7 +26490,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cumchalice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -26521,7 +26521,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "cumchalice",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -26558,7 +26558,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -26601,7 +26601,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -26823,7 +26823,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "soy_latte",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-soy_latte-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-soy_latte-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26869,7 +26869,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_white",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_white-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_white-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -26980,7 +26980,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_brown",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_brown-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_brown-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -27038,7 +27038,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "space-up_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-space-up_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-space-up_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -27081,7 +27081,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "Space_mountain_wind_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-Space_mountain_wind_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-Space_mountain_wind_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -28350,7 +28350,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "synthanolglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-synthanolglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-synthanolglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28418,7 +28418,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "codelibre",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-codelibre-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-codelibre-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -28449,7 +28449,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "hoticecoffee",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-hoticecoffee-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-hoticecoffee-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28496,7 +28496,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "irishempbomb",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-irishempbomb-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-irishempbomb-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28545,7 +28545,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "restart",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-restart-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-restart-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28593,7 +28593,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "restart",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-restart-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-restart-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28639,7 +28639,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "robottearsglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-robottearsglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-robottearsglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28686,7 +28686,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "synthignon",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-synthignon-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-synthignon-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28732,7 +28732,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "synthnsoda",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-synthnsoda-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-synthnsoda-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28778,7 +28778,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "trinaryglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-trinaryglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-trinaryglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28826,7 +28826,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "wockyslush",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-wockyslush-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-wockyslush-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28873,7 +28873,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "uplink",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-uplink-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-uplink-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28920,7 +28920,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "roboticcoffee",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-roboticcoffee-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-roboticcoffee-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -28966,7 +28966,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "teaglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-teaglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-teaglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29024,7 +29024,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "arnold_palmer",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-arnold_palmer-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-arnold_palmer-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29070,7 +29070,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tea_forest",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tea_forest-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tea_forest-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29136,7 +29136,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tea_green",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tea_green-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tea_green-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29202,7 +29202,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tea_mush",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tea_mush-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tea_mush-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29254,7 +29254,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "pinktea",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-pinktea-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-pinktea-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29301,7 +29301,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "tea_red",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-tea_red-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-tea_red-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29441,7 +29441,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "toechtauese_syrup",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-toechtauese_syrup-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-toechtauese_syrup-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -29472,7 +29472,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "toechtauese_syrup",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-toechtauese_syrup-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-toechtauese_syrup-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -29503,7 +29503,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -29672,7 +29672,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -29715,7 +29715,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "triplecitrus",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-triplecitrus-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-triplecitrus-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29793,7 +29793,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "vanillapudding",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-vanillapudding-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-vanillapudding-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -29965,7 +29965,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_red",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_red-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_red-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -30015,7 +30015,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "wockyslush",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-wockyslush-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-wockyslush-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -34708,7 +34708,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "dr_gibb_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -34927,7 +34927,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "dr_gibb_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -34977,7 +34977,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "dr_gibb_glass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-dr_gibb_glass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
@@ -37074,7 +37074,7 @@
       "glass_icon_state": null,
       "shot_glass_icon_state": "shotglassred",
       "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [
@@ -37124,7 +37124,7 @@
       "glass_icon_state": null,
       "shot_glass_icon_state": "shotglassred",
       "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -37155,7 +37155,7 @@
       "glass_icon_state": null,
       "shot_glass_icon_state": "shotglassgreen",
       "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -37186,7 +37186,7 @@
       "glass_icon_state": null,
       "shot_glass_icon_state": "shotglassred",
       "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassred-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassred-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -37217,7 +37217,7 @@
       "glass_icon_state": null,
       "shot_glass_icon_state": "shotglassgreen",
       "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -43639,8 +43639,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_cucumber",
       "shot_glass_icon_state": "shotglassgreen",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_cucumber-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_cucumber-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassgreen-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [
@@ -49555,7 +49555,7 @@
       "shot_glass_icon": null,
       "glass_icon_state": "beerglass",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-beerglass-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-beerglass-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -51936,8 +51936,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/slime/slimefoam",
@@ -52168,8 +52168,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [],
       "containers": [],
       "grindings": [],
@@ -52199,8 +52199,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/holywater",
@@ -52257,8 +52257,8 @@
       "shot_glass_icon": null,
       "glass_icon_state": "glass_clear",
       "shot_glass_icon_state": "shotglassclear",
-      "parsed_glass_icon": "../images/icons-obj-drinks-dmi-glass_clear-2.gif",
-      "parsed_shot_glass_icon": "../images/icons-obj-drinks-dmi-shotglassclear-2.gif",
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-glass_clear-2.gif",
+      "parsed_shot_glass_icon": "./images/icons-obj-drinks-dmi-shotglassclear-2.gif",
       "recipes": [
         {
           "typepath": "/datum/chemical_reaction/saltwater",
