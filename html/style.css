@@ -1,0 +1,73 @@
+html {
+	scroll-behavior: smooth;
+}
+table {
+	text-align: center;
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th {
+	background-color:burlywood;
+}
+
+td, th {
+	border: 1px solid #b1aaaa;
+	text-align: center;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
+.collapsible {
+	background-color: #777;
+	color: white;
+	cursor: pointer;
+	padding: 18px;
+	width: 80%;
+	border: none;
+	text-align: center;
+	outline: none;
+	font-size: 15px;
+}
+
+.active, .collapsible:hover {
+	background-color: #555;
+}
+
+.content {
+	padding: 0 18px;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+	background-color: #f1f1f1;
+}
+
+.dev_tooltip {
+	display: inline-block;
+	border-bottom: 1px dotted black;
+	font-size: small;
+}
+
+.dev_tooltip .dev_tooltip_text {
+	visibility: hidden;
+	background-color: #ede1e1;
+	color: black;
+	text-align: center;
+	padding: 5px 7px;
+	border-radius: 6px;
+	position: absolute;
+	z-index: 1;
+	border: solid;
+	border-width: 2px;
+}
+
+.dev_tooltip_text {
+	font-size: medium;
+}
+
+.dev_tooltip:hover .dev_tooltip_text {
+	visibility: visible;
+}
