@@ -36277,6 +36277,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/analyzer/ranged/cyborg",
+          "name": "integrated long range gas analyzer",
+          "amount": 5.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/electronics",
           "name": "item",
           "amount": 10.0,
@@ -42000,6 +42006,12 @@
           "name": "long-range analyzer",
           "amount": 5.0,
           "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/analyzer/ranged/cyborg",
+          "name": "integrated long range gas analyzer",
+          "amount": 5.0,
+          "grind_type": "Grinding"
         }
       ],
       "r_dispensers": [],
@@ -44885,6 +44897,12 @@
         {
           "typepath": "/obj/item/analyzer/ranged",
           "name": "long-range analyzer",
+          "amount": 5.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/analyzer/ranged/cyborg",
+          "name": "integrated long range gas analyzer",
           "amount": 5.0,
           "grind_type": "Grinding"
         },
@@ -52231,7 +52249,13 @@
         }
       ],
       "grindings": [],
-      "r_dispensers": [],
+      "r_dispensers": [
+        {
+          "typepath": "/obj/structure/reagent_dispensers/watertank/holy",
+          "name": "BIG HOLY FLASK",
+          "amount": 1000.0
+        }
+      ],
       "c_dispensers": []
     },
     "/datum/reagent/water/salt": {
