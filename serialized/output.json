@@ -225,7 +225,14 @@
           "amount": 30.0
         }
       ],
-      "grindings": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/stack/ammonia_crystals",
+          "name": "ammonia crystals",
+          "amount": 10.0,
+          "grind_type": "Grinding"
+        }
+      ],
       "r_dispensers": [],
       "c_dispensers": [
         {
@@ -929,7 +936,7 @@
       "metabolization_rate": 5.0,
       "overdose_threshold": 0.0,
       "ph": 7.4,
-      "color": "#dc0000",
+      "color": "#AA1010",
       "value": "Uncommon",
       "taste_description": "iron",
       "taste_mult": 1.3,
@@ -1036,7 +1043,7 @@
       "metabolization_rate": 5.0,
       "overdose_threshold": 0.0,
       "ph": 7.4,
-      "color": "#dc0000",
+      "color": "#AA1010",
       "value": "Uncommon",
       "taste_description": "sweet innocence",
       "taste_mult": 1.3,
@@ -1104,7 +1111,7 @@
       "metabolization_rate": 5.0,
       "overdose_threshold": 0.0,
       "ph": 7.4,
-      "color": "#301d02",
+      "color": "#2C2C2C",
       "value": "None",
       "taste_description": "oil",
       "taste_mult": 1.3,
@@ -1182,7 +1189,7 @@
       "metabolization_rate": 5.0,
       "overdose_threshold": 0.0,
       "ph": 7.45,
-      "color": "#dc0000",
+      "color": "#AA1010",
       "value": "None",
       "taste_description": "sap",
       "taste_mult": 1.3,
@@ -2423,7 +2430,19 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/love_offer",
+          "name": "Sex Time Ticket",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/paper",
+          "name": "paper",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/paper/always_on_fire",
           "name": "paper",
           "amount": 3.0,
           "grind_type": "Grinding"
@@ -2490,49 +2509,49 @@
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/friend",
-          "name": "paper- contract for a friend",
+          "name": "бумага- контракт на друга",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/knowledge",
-          "name": "paper- contract for knowledge",
+          "name": "бумага- контракт на знание",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/magic",
-          "name": "paper- contract for magical power",
+          "name": "бумага- контракт на магические способности",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/power",
-          "name": "paper- contract for infernal power",
+          "name": "бумага- контракт на инфернальную силу",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/prestige",
-          "name": "paper- contract for prestige",
+          "name": "бумага- контракт на престиж",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/revive",
-          "name": "paper- contract of resurrection",
+          "name": "бумага- контракт на воскрешение",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/unwilling",
-          "name": "paper- infernal contract",
+          "name": "бумага- инфернальный контракт",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
         {
           "typepath": "/obj/item/paper/contract/infernal/wealth",
-          "name": "paper- contract for unlimited wealth",
+          "name": "бумага- контракт на неограниченное богатство",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
@@ -3611,26 +3630,8 @@
           "grind_type": "Grinding"
         },
         {
-          "typepath": "/obj/item/paper/fluff/fournal_lore",
-          "name": "Placeholder",
-          "amount": 3.0,
-          "grind_type": "Grinding"
-        },
-        {
           "typepath": "/obj/item/paper/fluff/gateway",
           "name": "Confidential Correspondence, Pg 1",
-          "amount": 3.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/paper/fluff/hilbertshotel",
-          "name": "paper",
-          "amount": 3.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/paper/fluff/hilbertshotel/welcomeletter",
-          "name": "Welcome Letter",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
@@ -3655,12 +3656,6 @@
         {
           "typepath": "/obj/item/paper/fluff/hologrid",
           "name": "Заметка",
-          "amount": 3.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/paper/fluff/instaloss_regret",
-          "name": "Semen and femcum stained note",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
@@ -4619,6 +4614,18 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/paper/guides/jobs/atmos",
+          "name": "paper",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/paper/guides/jobs/atmos/hypertorus",
+          "name": "paper- 'Quick guide to safe handling of the HFR'",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/paper/guides/jobs/engi",
           "name": "paper",
           "amount": 3.0,
@@ -4817,6 +4824,18 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/paper/paperslip/spare_id_safe_code",
+          "name": "Spare ID safe combination",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/paper/rangers",
+          "name": "отказ от претензий",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/paper/secretrecipe",
           "name": "old recipe",
           "amount": 3.0,
@@ -4837,6 +4856,12 @@
         {
           "typepath": "/obj/item/paper/teleporter",
           "name": "Teleporter Guide",
+          "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/paper/thermite_istruction",
+          "name": "Как оказатся в любом месте за 30 секунд!",
           "amount": 3.0,
           "grind_type": "Grinding"
         },
@@ -4902,6 +4927,12 @@
         },
         {
           "typepath": "/obj/item/stack/sheet/cloth",
+          "name": "cloth",
+          "amount": 2.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/stack/sheet/cloth/fifty",
           "name": "cloth",
           "amount": 2.0,
           "grind_type": "Grinding"
@@ -5720,6 +5751,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/stack/medical/aloe/fresh",
+          "name": "aloe cream",
+          "amount": 1.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/stack/medical/mesh/advanced",
           "name": "advanced regenerative mesh",
           "amount": 1.0,
@@ -6116,7 +6153,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/bbqsauce",
+          "typepath": "/datum/chemical_reaction/food/bbqsauce",
           "mix_message": null,
           "produced_amount": 5.0,
           "required_temp": 0.0,
@@ -6564,7 +6601,7 @@
       "color": "#B31008",
       "value": "VeryCommon",
       "taste_description": "hot peppers",
-      "taste_mult": 1.5,
+      "taste_mult": 4.5,
       "addiction_threshold": 0.0,
       "quality": "None",
       "boozepwr": 0.0,
@@ -6609,6 +6646,11 @@
           "amount": 5.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/chips/macnachos",
+          "name": "MacNachos Diablo",
+          "amount": 3.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/cubancarp",
           "name": "\\improper Cuban carp",
           "amount": 1.0
@@ -6631,6 +6673,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/goliathcalamari",
           "name": "goliath calamari",
+          "amount": 2.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/lollipop/capsaicin",
+          "name": "Chupa-Chups",
           "amount": 2.0
         },
         {
@@ -6695,6 +6742,48 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/consumable/capsaicin/reaper": {
+      "name": "Reaper Capsaicin Oil",
+      "desc": "The spiciest thing you can eat, your tongue will experience hell.",
+      "typepath": "/datum/reagent/consumable/capsaicin/reaper",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#a60800",
+      "value": "VeryCommon",
+      "taste_description": "very, VERY HOT",
+      "taste_mult": 10.0,
+      "addiction_threshold": 0.0,
+      "quality": "None",
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/burger/fivealarm",
+          "name": "five alarm burger",
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/lollipop/capsaicin",
+          "name": "Chupa-Chups",
+          "amount": 5.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/consumable/caramel": {
       "name": "Caramel",
       "desc": "Who would have guessed that heated sugar could be so delicious?",
@@ -6722,7 +6811,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/caramel",
+          "typepath": "/datum/chemical_reaction/food/caramel",
           "mix_message": null,
           "produced_amount": 1.0,
           "required_temp": 413.0,
@@ -7022,6 +7111,43 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/consumable/choccyshake/lactose_free": {
+      "name": "Chocolate Shake",
+      "desc": "Milkshake without milk!",
+      "typepath": "/datum/reagent/consumable/choccyshake/lactose_free",
+      "process_flags": "AllProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#541B00",
+      "value": "Uncommon",
+      "taste_description": "sweet creamy chocolate",
+      "taste_mult": 4.0,
+      "addiction_threshold": 0.0,
+      "quality": "DrinkVeryGood",
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": "strawberryshake_alt",
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-strawberryshake_alt-2.gif",
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/drinks/bottle/macvulp/choco",
+          "name": "Red Fox's choco milk",
+          "amount": 100.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/consumable/chocolatepudding": {
       "name": "Chocolate Pudding",
       "desc": "A great dessert for chocolate lovers.",
@@ -7242,7 +7368,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/coffee",
+          "typepath": "/datum/chemical_reaction/food/coffee",
           "mix_message": null,
           "produced_amount": 5.0,
           "required_temp": 0.0,
@@ -7331,11 +7457,6 @@
       ],
       "containers": [
         {
-          "typepath": "/obj/item/reagent_containers/food/snacks/burger/fivealarm",
-          "name": "five alarm burger",
-          "amount": 5.0
-        },
-        {
           "typepath": "/obj/item/reagent_containers/spray/chemsprayer/bioterror",
           "name": "chem sprayer",
           "amount": 100.0
@@ -7348,7 +7469,7 @@
         {
           "typepath": "/obj/item/reagent_containers/spray/pepper",
           "name": "pepperspray",
-          "amount": 40.0
+          "amount": 50.0
         }
       ],
       "grindings": [
@@ -7641,7 +7762,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/corn_syrup",
+          "typepath": "/datum/chemical_reaction/food/corn_syrup",
           "mix_message": null,
           "produced_amount": 5.0,
           "required_temp": 374.0,
@@ -7655,68 +7776,6 @@
           "fermi": null
         }
       ],
-      "containers": [],
-      "grindings": [],
-      "r_dispensers": [],
-      "c_dispensers": []
-    },
-    "/datum/reagent/consumable/cornmeal": {
-      "name": "Cornmeal",
-      "desc": "Ground cornmeal, for making corn related things.",
-      "typepath": "/datum/reagent/consumable/cornmeal",
-      "process_flags": "OrganicProcess",
-      "state": "Gas",
-      "metabolization_rate": 0.2,
-      "overdose_threshold": 0.0,
-      "ph": 7.0,
-      "color": "#ebca85",
-      "value": "VeryCommon",
-      "taste_description": "raw cornmeal",
-      "taste_mult": 4.0,
-      "addiction_threshold": 0.0,
-      "quality": "None",
-      "boozepwr": 0.0,
-      "species_required": null,
-      "glass_name": null,
-      "glass_desc": null,
-      "glass_icon": null,
-      "shot_glass_icon": null,
-      "glass_icon_state": null,
-      "shot_glass_icon_state": null,
-      "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": null,
-      "recipes": [],
-      "containers": [],
-      "grindings": [],
-      "r_dispensers": [],
-      "c_dispensers": []
-    },
-    "/datum/reagent/consumable/cornmeal_batter": {
-      "name": "Cornmeal Batter",
-      "desc": "An eggy, milky, corny mixture that's not very good raw.",
-      "typepath": "/datum/reagent/consumable/cornmeal_batter",
-      "process_flags": "OrganicProcess",
-      "state": "Gas",
-      "metabolization_rate": 0.2,
-      "overdose_threshold": 0.0,
-      "ph": 7.0,
-      "color": "#ebca85",
-      "value": "VeryCommon",
-      "taste_description": "raw batter",
-      "taste_mult": 4.0,
-      "addiction_threshold": 0.0,
-      "quality": "None",
-      "boozepwr": 0.0,
-      "species_required": null,
-      "glass_name": null,
-      "glass_desc": null,
-      "glass_icon": null,
-      "shot_glass_icon": null,
-      "glass_icon_state": null,
-      "shot_glass_icon_state": null,
-      "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": null,
-      "recipes": [],
       "containers": [],
       "grindings": [],
       "r_dispensers": [],
@@ -7804,6 +7863,16 @@
           "typepath": "/obj/item/reagent_containers/food/drinks/bottle/cream",
           "name": "Milk Cream",
           "amount": 100.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/cheese_curds",
+          "name": "cheese curds",
+          "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/curd_cheese",
+          "name": "curd cheese",
+          "amount": 1.0
         }
       ],
       "grindings": [],
@@ -8208,7 +8277,38 @@
       "shot_glass_icon_state": null,
       "parsed_glass_icon": null,
       "parsed_shot_glass_icon": null,
-      "recipes": [],
+      "recipes": [
+        {
+          "typepath": "/datum/chemical_reaction/eggyollk",
+          "mix_message": null,
+          "produced_amount": 3.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/blood": 1.0,
+            "/datum/reagent/consumable/sugar": 1.0,
+            "/datum/reagent/medicine/synthflesh": 1.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
+        },
+        {
+          "typepath": "/datum/chemical_reaction/eggyollk/synth",
+          "mix_message": null,
+          "produced_amount": 3.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/blood/synthetics": 1.0,
+            "/datum/reagent/consumable/sugar": 1.0,
+            "/datum/reagent/medicine/synthflesh": 1.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
+        }
+      ],
       "containers": [
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/cube/chicken",
@@ -13698,6 +13798,52 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/consumable/ethanol/millie_kiss": {
+      "name": "Millie Kiss",
+      "desc": "Cold coffee with strawberry flavor.",
+      "typepath": "/datum/reagent/consumable/ethanol/millie_kiss",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.33,
+      "color": "#e7aee7",
+      "value": "VeryCommon",
+      "taste_description": "Purrrrifying~",
+      "taste_mult": 4.0,
+      "addiction_threshold": 0.0,
+      "quality": "DrinkVeryGood",
+      "boozepwr": 10.0,
+      "species_required": null,
+      "glass_name": "glass of Millie Kiss",
+      "glass_desc": "Cold coffee with strawberry flavor.",
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": "milliecum",
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-milliecum-2.gif",
+      "parsed_shot_glass_icon": null,
+      "recipes": [
+        {
+          "typepath": "/datum/chemical_reaction/millie_kiss",
+          "mix_message": "The drink bubbles, forming pink hearts on the surface.",
+          "produced_amount": 2.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/consumable/ethanol/irishcoffee": 1.0,
+            "/datum/reagent/consumable/milkshake_strawberry": 1.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
+        }
+      ],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/consumable/ethanol/mojito": {
       "name": "Mojito",
       "desc": "A drink that looks as refreshing as it tastes.",
@@ -17658,7 +17804,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/hell_ramen",
+          "typepath": "/datum/chemical_reaction/food/hell_ramen",
           "mix_message": null,
           "produced_amount": 6.0,
           "required_temp": 0.0,
@@ -17816,7 +17962,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/hot_coco",
+          "typepath": "/datum/chemical_reaction/food/hot_coco",
           "mix_message": null,
           "produced_amount": 5.0,
           "required_temp": 0.0,
@@ -17868,7 +18014,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/hot_ramen",
+          "typepath": "/datum/chemical_reaction/food/hot_ramen",
           "mix_message": null,
           "produced_amount": 3.0,
           "required_temp": 0.0,
@@ -18456,6 +18602,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/pie/cream/nostun",
           "name": "banana cream pie",
+          "amount": 15.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pie/cream/nostun/cardboard_slug",
+          "name": "cardboard slug",
           "amount": 15.0
         },
         {
@@ -19069,6 +19220,43 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/consumable/milkshake_banana/lactose_free": {
+      "name": "Banana Milkshake",
+      "desc": "Milkshake without milk!",
+      "typepath": "/datum/reagent/consumable/milkshake_banana/lactose_free",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#FFE135",
+      "value": "VeryCommon",
+      "taste_description": "funny pranks and clowning around",
+      "taste_mult": 4.0,
+      "addiction_threshold": 0.0,
+      "quality": "None",
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": "glass of Banana Milkshake",
+      "glass_desc": "A banana milkshake! Honk!",
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": "bananashake_alt",
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-bananashake_alt-2.gif",
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/drinks/bottle/macvulp/banana",
+          "name": "Red Fox's banana milk",
+          "amount": 100.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/consumable/milkshake_base": {
       "name": "Milkshake",
       "desc": "A basic milkshake. Could use something else?",
@@ -19484,6 +19672,43 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/consumable/milkshake_strawberry/lactose_free": {
+      "name": "Strawberry Milkshake",
+      "desc": "Milkshake without milk!",
+      "typepath": "/datum/reagent/consumable/milkshake_strawberry/lactose_free",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#F4E1EA",
+      "value": "VeryCommon",
+      "taste_description": "summer memories",
+      "taste_mult": 4.0,
+      "addiction_threshold": 0.0,
+      "quality": "None",
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": "glass of strawberry milkshake",
+      "glass_desc": "A glass of sweet, pink Strawberry Shake",
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": "strawberryshake_alt",
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-strawberryshake_alt-2.gif",
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/drinks/bottle/macvulp",
+          "name": "Red Fox's strawberry milk",
+          "amount": 100.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/consumable/milkshake_vanilla": {
       "name": "Vanilla Milkshake",
       "desc": "A vanilla milkshake. Basic, but delicious.",
@@ -19660,6 +19885,43 @@
           "typepath": "/obj/item/reagent_containers/food/condiment/pack/mustard",
           "name": "mustard pack",
           "amount": 10.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/consumable/non_alcoholic_beer": {
+      "name": "Citrus Beer",
+      "desc": "A non-alcoholic alternative to regular beer. It smells like citrus.",
+      "typepath": "/datum/reagent/consumable/non_alcoholic_beer",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#664300",
+      "value": "VeryCommon",
+      "taste_description": "citrus water",
+      "taste_mult": 4.0,
+      "addiction_threshold": 0.0,
+      "quality": "None",
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": "glass of citrus beer",
+      "glass_desc": "A freezing pint of citrus beer.",
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": "non_alcoholic_beer",
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": "./images/icons-obj-drinks-dmi-non_alcoholic_beer-2.gif",
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/drinks/beer/macvulp",
+          "name": "Macvulp non-alcoholic beer",
+          "amount": 30.0
         }
       ],
       "grindings": [],
@@ -19994,6 +20256,11 @@
           "amount": 2.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/breadslice/reispan",
+          "name": "reispan slice",
+          "amount": 3.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/breadslice/spidermeat",
           "name": "spider meat bread slice",
           "amount": 6.0
@@ -20141,6 +20408,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/burger/jelly/slime",
           "name": "jelly burger",
+          "amount": 6.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/burger/macvulpburger",
+          "name": "MacVulpBurger gourmet",
           "amount": 6.0
         },
         {
@@ -20456,7 +20728,7 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/cheesiehonkers",
           "name": "cheesie honkers",
-          "amount": 1.0
+          "amount": 3.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/cheesyburrito",
@@ -20486,7 +20758,12 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/chips",
           "name": "chips",
-          "amount": 1.0
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/chips/macnachos",
+          "name": "MacNachos Diablo",
+          "amount": 3.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/chococoin",
@@ -20556,7 +20833,7 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/cornchips",
           "name": "boritos corn chips",
-          "amount": 3.0
+          "amount": 5.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/cornedbeef",
@@ -20624,6 +20901,11 @@
           "amount": 8.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/curd",
+          "name": "curd",
+          "amount": 6.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/customizable/kebab",
           "name": "kebab",
           "amount": 1.0
@@ -20652,6 +20934,26 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket",
           "name": "\\improper Donk-pocket",
           "amount": 4.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/vulpix",
+          "name": "\\improper MacVulpix Original Taste",
+          "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/vulpix/cheese",
+          "name": "\\improper MacVulpix Triple-Cheese",
+          "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/vulpix/cheese/warm",
+          "name": "\\improper MacVulpix Triple-Cheese",
+          "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/vulpix/warm",
+          "name": "\\improper MacVulpix Original Taste",
+          "amount": 10.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/warm",
@@ -20876,7 +21178,7 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/energybar",
           "name": "High-power energy bars",
-          "amount": 3.0
+          "amount": 5.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/fish_poke",
@@ -20932,6 +21234,16 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/garlicbread",
           "name": "garlic bread",
           "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/glazed_curd",
+          "name": "glazed curd",
+          "amount": 6.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/glazed_curd/strawberry",
+          "name": "glazed curd",
+          "amount": 6.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/goliathcalamari",
@@ -21074,6 +21386,11 @@
           "amount": 6.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/kebab/shrimp",
+          "name": "shrimp skewer",
+          "amount": 8.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/kebab/tail",
           "name": "lizard-tail kebab",
           "amount": 8.0
@@ -21101,6 +21418,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/lollipop",
           "name": "lollipop",
+          "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/lollipop/capsaicin",
+          "name": "Chupa-Chups",
           "amount": 1.0
         },
         {
@@ -21246,6 +21568,16 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/meat/rawcutlet/xeno",
           "name": "raw xeno cutlet",
+          "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/meat/rawshrimp",
+          "name": "raw shrimp",
+          "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/meat/shrimp",
+          "name": "fried shrimp",
           "amount": 1.0
         },
         {
@@ -21561,12 +21893,12 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/no_raisin",
           "name": "4no raisins",
-          "amount": 2.0
+          "amount": 4.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/no_raisin/healthy",
           "name": "homemade raisins",
-          "amount": 3.0
+          "amount": 5.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/notasandwich",
@@ -21844,6 +22176,11 @@
           "amount": 30.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizza/sassysage/macvulp",
+          "name": "MacVulPizza extra pepperoni",
+          "amount": 30.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/pizza/vegetable",
           "name": "vegetable pizza",
           "amount": 25.0
@@ -21911,6 +22248,16 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/pizzaslice/sassysage",
           "name": "sassysage pizza slice",
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizzaslice/sassysage/macvulp",
+          "name": "MacVulPizza extra pepperoni pizza slice",
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizzaslice/shrimp",
+          "name": "shrimp pizza slice",
           "amount": 5.0
         },
         {
@@ -22084,6 +22431,11 @@
           "amount": 7.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/salad/shrimpcaesar",
+          "name": "shrimp caesar salad",
+          "amount": 6.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/salad/validsalad",
           "name": "valid salad",
           "amount": 8.0
@@ -22121,6 +22473,26 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/sfseeds",
           "name": "\\improper Old Glory sunflower seeds",
+          "amount": 2.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimp_onigiri",
+          "name": "Shrimp Onigiri",
+          "amount": 6.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimp_sushi",
+          "name": "Ebi Hosomaki",
+          "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimpbun",
+          "name": "shrimp bun",
+          "amount": 4.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimpwrap",
+          "name": "shrimp wrap",
           "amount": 2.0
         },
         {
@@ -22226,12 +22598,12 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/sosjerky",
           "name": "\\improper Scaredy's Private Reserve Beef Jerky",
-          "amount": 1.0
+          "amount": 4.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/sosjerky/healthy",
           "name": "homemade beef jerky",
-          "amount": 3.0
+          "amount": 5.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/soup",
@@ -22346,6 +22718,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/soup/peasoup",
           "name": "pea soup",
+          "amount": 8.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/soup/shrimp",
+          "name": "shrimp soup",
           "amount": 8.0
         },
         {
@@ -22517,6 +22894,11 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/store/bread/plain",
           "name": "bread",
           "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/store/bread/reispan",
+          "name": "reispan",
+          "amount": 15.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/store/bread/spidermeat",
@@ -22736,7 +23118,7 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/syndicake",
           "name": "syndi-cakes",
-          "amount": 4.0
+          "amount": 5.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/taco",
@@ -23020,6 +23402,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/burger/macvulpburger",
+          "name": "MacVulpBurger gourmet",
+          "amount": 10.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/burger/mcguffin",
           "name": "mcguffin",
           "amount": 10.0,
@@ -23153,9 +23541,44 @@
       "recipes": [],
       "containers": [
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/cheese_curds",
+          "name": "cheese curds",
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/curd_cheese",
+          "name": "curd cheese",
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizza/shrimp",
+          "name": "shrimp pizza",
+          "amount": 30.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/salad/bulgogi_noodles",
           "name": "bulgogi noodles",
           "amount": 8.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/salad/shrimpcaesar",
+          "name": "shrimp caesar salad",
+          "amount": 6.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimp_sushi",
+          "name": "Ebi Hosomaki",
+          "amount": 2.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimpbun",
+          "name": "shrimp bun",
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimpwrap",
+          "name": "shrimp wrap",
+          "amount": 4.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/soup/dragon_ramen",
@@ -23284,7 +23707,13 @@
       "parsed_glass_icon": null,
       "parsed_shot_glass_icon": null,
       "recipes": [],
-      "containers": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/soup/dashi",
+          "name": "Dashi soup",
+          "amount": 30.0
+        }
+      ],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
@@ -23602,22 +24031,32 @@
       "quality": "None",
       "boozepwr": 0.0,
       "species_required": null,
-      "glass_name": null,
-      "glass_desc": null,
-      "glass_icon": null,
+      "glass_name": "Teriyaki Sauce",
+      "glass_desc": "A Japanese sauce that's heavy on umami.",
+      "glass_icon": "modular_bluemoon/icons/obj/food/food_ingredients.dmi",
       "shot_glass_icon": null,
-      "glass_icon_state": null,
+      "glass_icon_state": "sambal",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": null,
+      "parsed_glass_icon": "./images/modular_bluemoon-icons-obj-food-food_ingredients-dmi-sambal-2.gif",
       "parsed_shot_glass_icon": null,
-      "recipes": [],
-      "containers": [
+      "recipes": [
         {
-          "typepath": "/obj/item/reagent_containers/food/snacks/soup/teriyaki",
-          "name": "Teriyaki Sauce",
-          "amount": 20.0
+          "typepath": "/datum/chemical_reaction/food/soup/teriyaki",
+          "mix_message": null,
+          "produced_amount": 20.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/consumable/ethanol/sake": 10.0,
+            "/datum/reagent/consumable/honey": 5.0,
+            "/datum/reagent/consumable/soysauce": 10.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
         }
       ],
+      "containers": [],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
@@ -23894,6 +24333,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/burger/jelly/slime",
           "name": "jelly burger",
+          "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/burger/macvulpburger",
+          "name": "MacVulpBurger gourmet",
           "amount": 1.0
         },
         {
@@ -24682,6 +25126,16 @@
           "amount": 5.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizza/sassysage/macvulp",
+          "name": "MacVulPizza extra pepperoni",
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizza/shrimp",
+          "name": "shrimp pizza",
+          "amount": 8.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/pizza/vegetable",
           "name": "vegetable pizza",
           "amount": 5.0
@@ -24797,6 +25251,11 @@
           "amount": 2.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/salad/shrimpcaesar",
+          "name": "shrimp caesar salad",
+          "amount": 3.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/salad/validsalad",
           "name": "valid salad",
           "amount": 2.0
@@ -24815,6 +25274,16 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/sausage",
           "name": "sausage",
           "amount": 1.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimpbun",
+          "name": "shrimp bun",
+          "amount": 2.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimpwrap",
+          "name": "shrimp wrap",
+          "amount": 2.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/snowcones/kiwi",
@@ -24940,6 +25409,11 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/soup/shoyu_ramen",
           "name": "shōyu ramen",
           "amount": 8.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/soup/shrimp",
+          "name": "shrimp soup",
+          "amount": 4.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/soup/slime",
@@ -25267,37 +25741,6 @@
           "amount": 4.0
         }
       ],
-      "grindings": [],
-      "r_dispensers": [],
-      "c_dispensers": []
-    },
-    "/datum/reagent/consumable/olivepaste": {
-      "name": "Olive Paste",
-      "desc": "A mushy pile of finely ground olives.",
-      "typepath": "/datum/reagent/consumable/olivepaste",
-      "process_flags": "OrganicProcess",
-      "state": "Gas",
-      "metabolization_rate": 0.2,
-      "overdose_threshold": 0.0,
-      "ph": 7.0,
-      "color": "#adcf77",
-      "value": "VeryCommon",
-      "taste_description": "mushy olives",
-      "taste_mult": 4.0,
-      "addiction_threshold": 0.0,
-      "quality": "None",
-      "boozepwr": 0.0,
-      "species_required": null,
-      "glass_name": null,
-      "glass_desc": null,
-      "glass_icon": null,
-      "shot_glass_icon": null,
-      "glass_icon_state": null,
-      "shot_glass_icon_state": null,
-      "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": null,
-      "recipes": [],
-      "containers": [],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
@@ -25759,6 +26202,12 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/roasted_peanuts",
           "name": "roasted peanuts",
           "amount": 3.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/roasted_peanuts",
+          "name": "roasted peanuts",
+          "amount": 3.0,
           "grind_type": "Juicing"
         }
       ],
@@ -26069,37 +26518,6 @@
         }
       ]
     },
-    "/datum/reagent/consumable/quality_oil": {
-      "name": "Quality Oil",
-      "desc": "A high quality oil, suitable for dishes where the oil is a key flavour.",
-      "typepath": "/datum/reagent/consumable/quality_oil",
-      "process_flags": "OrganicProcess",
-      "state": "Gas",
-      "metabolization_rate": 0.2,
-      "overdose_threshold": 0.0,
-      "ph": 7.0,
-      "color": "#DBCF5C",
-      "value": "VeryCommon",
-      "taste_description": "olive oil",
-      "taste_mult": 4.0,
-      "addiction_threshold": 0.0,
-      "quality": "None",
-      "boozepwr": 0.0,
-      "species_required": null,
-      "glass_name": null,
-      "glass_desc": null,
-      "glass_icon": null,
-      "shot_glass_icon": null,
-      "glass_icon_state": null,
-      "shot_glass_icon_state": null,
-      "parsed_glass_icon": null,
-      "parsed_shot_glass_icon": null,
-      "recipes": [],
-      "containers": [],
-      "grindings": [],
-      "r_dispensers": [],
-      "c_dispensers": []
-    },
     "/datum/reagent/consumable/raf": {
       "name": "Raf",
       "desc": "Sweet and milky coffee drink",
@@ -26176,7 +26594,7 @@
       "recipes": [],
       "containers": [
         {
-          "typepath": "/obj/item/reagent_containers/food/snacks/red_bay",
+          "typepath": "/obj/item/reagent_containers/food/condiment/red_bay",
           "name": "\\improper Red Bay seasoning",
           "amount": 50.0
         }
@@ -26332,7 +26750,7 @@
       "typepath": "/datum/reagent/consumable/semen",
       "process_flags": "OrganicProcess",
       "state": "Gas",
-      "metabolization_rate": 0.2,
+      "metabolization_rate": 0.4,
       "overdose_threshold": 0.0,
       "ph": 7.0,
       "color": "#FFFFFF",
@@ -26405,7 +26823,7 @@
       "typepath": "/datum/reagent/consumable/semen/femcum",
       "process_flags": "OrganicProcess",
       "state": "Gas",
-      "metabolization_rate": 0.2,
+      "metabolization_rate": 0.1,
       "overdose_threshold": 0.0,
       "ph": 7.0,
       "color": "#FFFFFF",
@@ -26416,13 +26834,13 @@
       "quality": "None",
       "boozepwr": 0.0,
       "species_required": null,
-      "glass_name": "chalice of cum",
-      "glass_desc": "Consuming this will not give you a birth of fine, healthy litter of puppies.",
+      "glass_name": "chalice of femcum",
+      "glass_desc": "Cloudy, viscous.",
       "glass_icon": "modular_splurt/icons/obj/drinks.dmi",
       "shot_glass_icon": null,
-      "glass_icon_state": "cumchalice",
+      "glass_icon_state": "cumchalice_fem",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice_fem-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
@@ -26473,7 +26891,7 @@
       "typepath": "/datum/reagent/consumable/semen/siliconcum",
       "process_flags": "OrganicProcess",
       "state": "Gas",
-      "metabolization_rate": 0.2,
+      "metabolization_rate": 0.4,
       "overdose_threshold": 0.0,
       "ph": 7.0,
       "color": "#5cb2cc",
@@ -26484,13 +26902,13 @@
       "quality": "None",
       "boozepwr": 0.0,
       "species_required": null,
-      "glass_name": "chalice of cum",
+      "glass_name": "chalice of synthcum",
       "glass_desc": "Consuming this will not give you a birth of fine, healthy litter of puppies.",
       "glass_icon": "modular_splurt/icons/obj/drinks.dmi",
       "shot_glass_icon": null,
-      "glass_icon_state": "cumchalice",
+      "glass_icon_state": "cumchalice_synth",
       "shot_glass_icon_state": null,
-      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice-2.gif",
+      "parsed_glass_icon": "./images/modular_splurt-icons-obj-drinks-dmi-cumchalice_synth-2.gif",
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [],
@@ -26504,7 +26922,7 @@
       "typepath": "/datum/reagent/consumable/semen/syrup",
       "process_flags": "OrganicProcess",
       "state": "Gas",
-      "metabolization_rate": 0.2,
+      "metabolization_rate": 0.4,
       "overdose_threshold": 0.0,
       "ph": 7.0,
       "color": "#FFFFFF",
@@ -26739,6 +27157,11 @@
           "amount": 3.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/shrimp_onigiri",
+          "name": "Shrimp Onigiri",
+          "amount": 2.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/sosjerky",
           "name": "\\improper Scaredy's Private Reserve Beef Jerky",
           "amount": 2.0
@@ -26917,7 +27340,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/soysauce",
+          "typepath": "/datum/chemical_reaction/food/soysauce",
           "mix_message": null,
           "produced_amount": 5.0,
           "required_temp": 0.0,
@@ -27436,7 +27859,7 @@
         },
         {
           "typepath": "/obj/item/reagent_containers/food/condiment/sugar",
-          "name": "sugar bottle",
+          "name": "sugar pack",
           "amount": 50.0
         },
         {
@@ -27487,6 +27910,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/chips",
           "name": "chips",
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/chips/macnachos",
+          "name": "MacNachos Diablo",
           "amount": 3.0
         },
         {
@@ -27735,6 +28163,11 @@
           "amount": 5.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/lollipop/capsaicin",
+          "name": "Chupa-Chups",
+          "amount": 3.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/lollipop/cyborg",
           "name": "lollipop",
           "amount": 5.0
@@ -27757,7 +28190,7 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/spacetwinkie",
           "name": "space twinkie",
-          "amount": 4.0
+          "amount": 6.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/spiderlollipop",
@@ -27788,6 +28221,11 @@
           "typepath": "/obj/item/reagent_containers/food/snacks/sushi_feline/nekobara",
           "name": "nekobara roll",
           "amount": 2.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/swirl_lollipop",
+          "name": "Swirl Lollipop",
+          "amount": 30.0
         },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/tinychocolate",
@@ -28852,7 +29290,7 @@
     },
     "/datum/reagent/consumable/synthdrink/synthanol/uplink": {
       "name": "Uplink",
-      "desc": "Pact with the Syndicate granted us this fantastic drink, smelling of sweet telecrystals...",
+      "desc": "PACT with the Syndicate granted us this fantastic drink, smelling of sweet telecrystals...",
       "typepath": "/datum/reagent/consumable/synthdrink/synthanol/uplink",
       "process_flags": "AllProcess",
       "state": "Gas",
@@ -28868,7 +29306,7 @@
       "boozepwr": 90.0,
       "species_required": null,
       "glass_name": "glass of Uplink",
-      "glass_desc": "Pact with the Syndicate granted us this fantastic drink, smelling of sweet telecrystals...",
+      "glass_desc": "PACT with the Syndicate granted us this fantastic drink, smelling of sweet telecrystals...",
       "glass_icon": null,
       "shot_glass_icon": null,
       "glass_icon_state": "uplink",
@@ -28952,7 +29390,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 7.0,
-      "color": "#101000",
+      "color": "#672503",
       "value": "VeryCommon",
       "taste_description": "tart black tea",
       "taste_mult": 4.0,
@@ -28970,7 +29408,7 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/tea",
+          "typepath": "/datum/chemical_reaction/food/tea",
           "mix_message": null,
           "produced_amount": 5.0,
           "required_temp": 0.0,
@@ -28984,13 +29422,7 @@
           "fermi": null
         }
       ],
-      "containers": [
-        {
-          "typepath": "/obj/item/reagent_containers/food/drinks/mug/tea",
-          "name": "Duke Purple tea",
-          "amount": 30.0
-        }
-      ],
+      "containers": [],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": [
@@ -29056,7 +29488,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 7.0,
-      "color": "#101000",
+      "color": "#f4a103",
       "value": "VeryCommon",
       "taste_description": "sweet tea",
       "taste_mult": 4.0,
@@ -29122,7 +29554,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 7.0,
-      "color": "#101000",
+      "color": "#b8d133",
       "value": "VeryCommon",
       "taste_description": "tart green tea",
       "taste_mult": 4.0,
@@ -29188,7 +29620,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 7.0,
-      "color": "#101000",
+      "color": "#0f6d6f",
       "value": "VeryCommon",
       "taste_description": "fungal infections",
       "taste_mult": 4.0,
@@ -29287,7 +29719,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 7.0,
-      "color": "#101000",
+      "color": "#d31145",
       "value": "VeryCommon",
       "taste_description": "sweet red tea",
       "taste_mult": 4.0,
@@ -29344,6 +29776,43 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/consumable/tea/red/purple": {
+      "name": "Purple Tea",
+      "desc": "Tasty purple tea, helps the body digest food. Drink in moderation!",
+      "typepath": "/datum/reagent/consumable/tea/red/purple",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#8b2094",
+      "value": "VeryCommon",
+      "taste_description": "sweet purple tea",
+      "taste_mult": 4.0,
+      "addiction_threshold": 0.0,
+      "quality": "None",
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": "glass of purple tea",
+      "glass_desc": "A piping hot tea that helps with the digestion of food.",
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": "tea_purple",
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/drinks/mug/tea",
+          "name": "Duke Purple tea",
+          "amount": 30.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/consumable/tearjuice": {
       "name": "Tear Juice",
       "desc": "A blinding substance extracted from certain onions.",
@@ -29371,6 +29840,11 @@
       "parsed_shot_glass_icon": null,
       "recipes": [],
       "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/lollipop/capsaicin",
+          "name": "Chupa-Chups",
+          "amount": 4.0
+        },
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/onion_slice/red",
           "name": "red onion slices",
@@ -29575,6 +30049,16 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/pizza/sassysage",
           "name": "sassysage pizza",
+          "amount": 6.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizza/sassysage/macvulp",
+          "name": "MacVulPizza extra pepperoni",
+          "amount": 6.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/pizza/shrimp",
+          "name": "shrimp pizza",
           "amount": 6.0
         },
         {
@@ -29842,7 +30326,23 @@
       "shot_glass_icon_state": null,
       "parsed_glass_icon": null,
       "parsed_shot_glass_icon": null,
-      "recipes": [],
+      "recipes": [
+        {
+          "typepath": "/datum/chemical_reaction/food/wine_vinegar",
+          "mix_message": null,
+          "produced_amount": 5.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/consumable/ethanol/wine": 1.0,
+            "/datum/reagent/consumable/sugar": 1.0,
+            "/datum/reagent/water": 1.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
+        }
+      ],
       "containers": [],
       "grindings": [],
       "r_dispensers": [],
@@ -30118,7 +30618,22 @@
       "shot_glass_icon_state": null,
       "parsed_glass_icon": null,
       "parsed_shot_glass_icon": null,
-      "recipes": [],
+      "recipes": [
+        {
+          "typepath": "/datum/chemical_reaction/food/yoghurt",
+          "mix_message": "The mixture thickens into yoghurt.",
+          "produced_amount": 10.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/consumable/cream": 10.0,
+            "/datum/reagent/consumable/virus_food": 2.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
+        }
+      ],
       "containers": [],
       "grindings": [],
       "r_dispensers": [],
@@ -30268,6 +30783,12 @@
         },
         {
           "typepath": "/obj/item/stack/cable_coil/random/five",
+          "name": "cable coil",
+          "amount": 2.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/stack/cable_coil/random/one",
           "name": "cable coil",
           "amount": 2.0,
           "grind_type": "Grinding"
@@ -31055,10 +31576,125 @@
       "containers": [
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/bath_salts",
-          "name": "unlabeled syringe",
+          "name": "B syringe",
           "amount": 15.0
         }
       ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/drug/cocaine": {
+      "name": "cocaine",
+      "desc": "A powerful stimulant extracted from coca leaves. Reduces stun times, but causes drowsiness and severe brain damage if overdosed.",
+      "typepath": "/datum/reagent/drug/cocaine",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 20.0,
+      "ph": 9.0,
+      "color": "#ffffff",
+      "value": "None",
+      "taste_description": "bitterness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 10.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/cocaine",
+          "name": "cocaine",
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/cocainebrick",
+          "name": "cocaine brick",
+          "amount": 25.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/drug/cocaine/freebase_cocaine": {
+      "name": "freebase cocaine",
+      "desc": "A smokable form of cocaine.",
+      "typepath": "/datum/reagent/drug/cocaine/freebase_cocaine",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 20.0,
+      "ph": 9.0,
+      "color": "#f0e6bb",
+      "value": "None",
+      "taste_description": "bitterness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 10.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/crack",
+          "name": "crack",
+          "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/crackbrick",
+          "name": "crack brick",
+          "amount": 40.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/drug/cocaine/powder_cocaine": {
+      "name": "powder cocaine",
+      "desc": "The powder form of cocaine.",
+      "typepath": "/datum/reagent/drug/cocaine/powder_cocaine",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 20.0,
+      "ph": 9.0,
+      "color": "#ffffff",
+      "value": "None",
+      "taste_description": "bitterness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 10.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
@@ -31193,7 +31829,7 @@
       "containers": [
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/crank",
-          "name": "unlabeled syringe",
+          "name": "C syringe",
           "amount": 15.0
         }
       ],
@@ -31392,7 +32028,7 @@
             "/datum/reagent/fermi/butt_enlarger": 1.0
           },
           "catalysts": {},
-          "required_container": null,
+          "required_container": "/obj/item/reagent_containers/glass",
           "fermi": null
         }
       ],
@@ -31449,7 +32085,7 @@
             "/datum/reagent/fermi/breast_enlarger": 1.0
           },
           "catalysts": {},
-          "required_container": null,
+          "required_container": "/obj/item/reagent_containers/glass",
           "fermi": null
         }
       ],
@@ -31619,6 +32255,11 @@
           "amount": 2.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/swirl_lollipop",
+          "name": "Swirl Lollipop",
+          "amount": 5.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/pill/happiness",
           "name": "happiness pill",
           "amount": 10.0
@@ -31697,6 +32338,11 @@
           "typepath": "/obj/item/reagent_containers/pill/powder_heroin",
           "name": "Героин",
           "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/syringe/contraband/heroin",
+          "name": "H syringe",
+          "amount": 15.0
         },
         {
           "typepath": "/obj/item/reagent_containers/syringe/heroin",
@@ -31825,7 +32471,7 @@
       "containers": [
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/krokodil",
-          "name": "unlabeled syringe",
+          "name": "K syringe",
           "amount": 15.0
         }
       ],
@@ -31877,8 +32523,13 @@
       "containers": [
         {
           "typepath": "/obj/item/reagent_containers/pill/labebium",
-          "name": "Весёлая Таблетка",
+          "name": "happiness pill",
           "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/syringe/contraband/labebium",
+          "name": "L syringe",
+          "amount": 15.0
         }
       ],
       "grindings": [],
@@ -32164,7 +32815,7 @@
         },
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/methamphetamine",
-          "name": "unlabeled syringe",
+          "name": "MM syringe",
           "amount": 15.0
         }
       ],
@@ -32335,6 +32986,11 @@
           "typepath": "/obj/item/reagent_containers/pill/pendosovka",
           "name": "Pendosovka",
           "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/syringe/contraband/pendosovka",
+          "name": "USA syringe",
+          "amount": 15.0
         }
       ],
       "grindings": [],
@@ -32450,7 +33106,7 @@
         },
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/space_drugs",
-          "name": "unlabeled syringe",
+          "name": "SD syringe",
           "amount": 15.0
         }
       ],
@@ -32527,6 +33183,11 @@
           "typepath": "/obj/item/reagent_containers/pill/zvezdochka",
           "name": "Zvezdochka",
           "amount": 10.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/syringe/contraband/zvezdochka",
+          "name": "USSR syringe",
+          "amount": 15.0
         }
       ],
       "grindings": [],
@@ -32736,7 +33397,7 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/buttreduction",
           "name": "pink hypovial (butt treatment)",
-          "amount": 30.0
+          "amount": 60.0
         }
       ],
       "grindings": [],
@@ -32812,7 +33473,7 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/breastreduction",
           "name": "pink hypovial (breast treatment)",
-          "amount": 30.0
+          "amount": 60.0
         }
       ],
       "grindings": [],
@@ -32925,7 +33586,7 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/penisreduction",
           "name": "pink hypovial (penis treatment)",
-          "amount": 30.0
+          "amount": 60.0
         }
       ],
       "grindings": [],
@@ -34685,6 +35346,37 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/freon": {
+      "name": "Freon",
+      "desc": "A coolant gas. Breathing it causes burn damage and heavy slowdown.",
+      "typepath": "/datum/reagent/freon",
+      "process_flags": "OrganicProcess",
+      "state": "Liquid",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#66ccff",
+      "value": "Uncommon",
+      "taste_description": "cold burn",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/fuel": {
       "name": "Welding fuel",
       "desc": "Required for welders. Flamable.",
@@ -35666,6 +36358,68 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/halon": {
+      "name": "Halon",
+      "desc": "A fire suppressant gas. Heavy slowdown when inhaled, but makes you heat proof.",
+      "typepath": "/datum/reagent/halon",
+      "process_flags": "OrganicProcess",
+      "state": "Liquid",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#44cc44",
+      "value": "Uncommon",
+      "taste_description": "chemical stagnation",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/healium": {
+      "name": "Healium",
+      "desc": "A miraculous gas that rapidly heals wounds.",
+      "typepath": "/datum/reagent/healium",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.5,
+      "overdose_threshold": 30.0,
+      "ph": 7.0,
+      "color": "#ff4444",
+      "value": "VeryRare",
+      "taste_description": "cold relief",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/hellwater": {
       "name": "Hell Water",
       "desc": "YOUR FLESH! IT BURNS!",
@@ -35691,7 +36445,22 @@
       "shot_glass_icon_state": null,
       "parsed_glass_icon": null,
       "parsed_shot_glass_icon": null,
-      "recipes": [],
+      "recipes": [
+        {
+          "typepath": "/datum/chemical_reaction/hellwater",
+          "mix_message": null,
+          "produced_amount": 2.0,
+          "required_temp": 0.0,
+          "subproducts": {},
+          "required": {
+            "/datum/reagent/consumable/capsaicin": 1.0,
+            "/datum/reagent/water/holywater": 1.0
+          },
+          "catalysts": {},
+          "required_container": null,
+          "fermi": null
+        }
+      ],
       "containers": [
         {
           "typepath": "/obj/item/reagent_containers/food/drinks/bottle/holywater/hell",
@@ -35700,6 +36469,44 @@
         }
       ],
       "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/hot_ice_slush": {
+      "name": "Hot Ice Slush",
+      "desc": "A slush of hot ice. Holds a great amount of power inside.",
+      "typepath": "/datum/reagent/hot_ice_slush",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#66ccff",
+      "value": "VeryRare",
+      "taste_description": "cold burn",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/stack/sheet/hot_ice",
+          "name": "hot ice",
+          "amount": 25.0,
+          "grind_type": "Grinding"
+        }
+      ],
       "r_dispensers": [],
       "c_dispensers": []
     },
@@ -35742,42 +36549,6 @@
           "name": "glowstick",
           "amount": 10.0,
           "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/blue",
-          "name": "blue glowstick",
-          "amount": 10.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/cyan",
-          "name": "cyan glowstick",
-          "amount": 10.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/orange",
-          "name": "orange glowstick",
-          "amount": 10.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/pink",
-          "name": "pink glowstick",
-          "amount": 10.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/red",
-          "name": "red glowstick",
-          "amount": 10.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/yellow",
-          "name": "yellow glowstick",
-          "amount": 10.0,
-          "grind_type": "Grinding"
         }
       ],
       "r_dispensers": [],
@@ -35798,6 +36569,37 @@
           "requirements": "Default"
         }
       ]
+    },
+    "/datum/reagent/hypernoblium": {
+      "name": "Hyper-Noblium",
+      "desc": "A suppressive gas that stops gas reactions on those who inhale it.",
+      "typepath": "/datum/reagent/hypernoblium",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#90560B",
+      "value": "VeryRare",
+      "taste_description": "searingly cold",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
     },
     "/datum/reagent/impedrezene": {
       "name": "Impedrezene",
@@ -36817,6 +37619,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/stock_parts/cell/hyeseong_internal_cell",
+          "name": "\\improper Hyeseong modular laser rifle internal cell",
+          "amount": 5.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/stock_parts/cell/hyper",
           "name": "hyper-capacity power cell",
           "amount": 5.0,
@@ -36933,6 +37741,12 @@
         {
           "typepath": "/obj/item/stock_parts/cell/super/empty",
           "name": "super-capacity power cell",
+          "amount": 5.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/stock_parts/cell/thermal",
+          "name": "thermal power cell",
           "amount": 5.0,
           "grind_type": "Grinding"
         },
@@ -37065,7 +37879,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 7.45,
-      "color": "#dc0000",
+      "color": "#AA1010",
       "value": "None",
       "taste_description": "gross iron",
       "taste_mult": 1.0,
@@ -37115,7 +37929,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 9.75,
-      "color": "#301d02",
+      "color": "#2C2C2C",
       "value": "None",
       "taste_description": "chunky burnt oil",
       "taste_mult": 1.0,
@@ -37208,7 +38022,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 0.0,
       "ph": 2.5,
-      "color": "#9cff75",
+      "color": "#96BB00",
       "value": "None",
       "taste_description": "blended heresy",
       "taste_mult": 1.0,
@@ -37403,6 +38217,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/stock_parts/cell/hyeseong_internal_cell",
+          "name": "\\improper Hyeseong modular laser rifle internal cell",
+          "amount": 15.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/stock_parts/cell/hyper",
           "name": "hyper-capacity power cell",
           "amount": 15.0,
@@ -37519,6 +38339,12 @@
         {
           "typepath": "/obj/item/stock_parts/cell/super/empty",
           "name": "super-capacity power cell",
+          "amount": 15.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/stock_parts/cell/thermal",
+          "name": "thermal power cell",
           "amount": 15.0,
           "grind_type": "Grinding"
         },
@@ -37664,6 +38490,272 @@
         }
       ],
       "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid": {
+      "name": "Green Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#64C864",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick",
+          "name": "glowstick",
+          "amount": 15.0,
+          "grind_type": "Grinding"
+        }
+      ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid/blue": {
+      "name": "Blue Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid/blue",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#6496FA",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick/blue",
+          "name": "blue glowstick",
+          "amount": 30.0,
+          "grind_type": "Grinding"
+        }
+      ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid/cyan": {
+      "name": "Cyan Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid/cyan",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#7DE1E1",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick/cyan",
+          "name": "cyan glowstick",
+          "amount": 30.0,
+          "grind_type": "Grinding"
+        }
+      ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid/orange": {
+      "name": "Orange Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid/orange",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#FA9632",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick/orange",
+          "name": "orange glowstick",
+          "amount": 30.0,
+          "grind_type": "Grinding"
+        }
+      ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid/pink": {
+      "name": "Pink Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid/pink",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#E17DE1",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick/pink",
+          "name": "pink glowstick",
+          "amount": 30.0,
+          "grind_type": "Grinding"
+        }
+      ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid/red": {
+      "name": "Red Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid/red",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#FA8282",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick/red",
+          "name": "red glowstick",
+          "amount": 30.0,
+          "grind_type": "Grinding"
+        }
+      ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/luminescent_fluid/yellow": {
+      "name": "Yellow Luminiscent Fluid",
+      "desc": "A colored fluid that produces light as a result of a chemical reaction with oxygen.",
+      "typepath": "/datum/reagent/luminescent_fluid/yellow",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.060000002,
+      "overdose_threshold": 50.0,
+      "ph": 7.0,
+      "color": "#E1E17D",
+      "value": "None",
+      "taste_description": "buttery acid",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [
+        {
+          "typepath": "/obj/item/flashlight/glowstick/yellow",
+          "name": "yellow glowstick",
+          "amount": 30.0,
+          "grind_type": "Grinding"
+        }
+      ],
       "r_dispensers": [],
       "c_dispensers": []
     },
@@ -38009,12 +39101,22 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/antitoxin",
           "name": "large green hypovial (anti-tox)",
-          "amount": 60.0
+          "amount": 120.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/multi_heal",
+          "name": "large hypovial (first-aid)",
+          "amount": 30.0
         },
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/antitoxin",
           "name": "green hypovial (Anti-Tox)",
-          "amount": 30.0
+          "amount": 60.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/multi_heal",
+          "name": "hypovial (first-aid)",
+          "amount": 15.0
         }
       ],
       "grindings": [],
@@ -38102,6 +39204,11 @@
           "amount": 10.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/survival/luxury",
+          "name": "элитный медипен",
+          "amount": 5.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/tuberculosiscure",
           "name": "BVAK autoinjector",
           "amount": 10.0
@@ -38177,12 +39284,22 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/bicaridine",
           "name": "large red hypovial (bicaridine)",
-          "amount": 60.0
+          "amount": 120.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/multi_heal",
+          "name": "large hypovial (first-aid)",
+          "amount": 30.0
         },
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/bicaridine",
           "name": "red hypovial (bicaridine)",
-          "amount": 30.0
+          "amount": 60.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/multi_heal",
+          "name": "hypovial (first-aid)",
+          "amount": 15.0
         }
       ],
       "grindings": [
@@ -38371,7 +39488,7 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/charcoal",
           "name": "large black hypovial (charcoal)",
-          "amount": 60.0
+          "amount": 120.0
         },
         {
           "typepath": "/obj/item/reagent_containers/pill/charcoal",
@@ -38466,17 +39583,32 @@
         {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen",
           "name": "epinephrine medipen",
-          "amount": 2.0
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/atropine",
+          "name": "atropine autoinjector",
+          "amount": 3.0
         },
         {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/blood_loss",
           "name": "hypovolemic-response autoinjector",
-          "amount": 2.5
+          "amount": 5.0
         },
         {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/ekit",
           "name": "emergency first-aid autoinjector",
-          "amount": 2.5
+          "amount": 5.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/salacid",
+          "name": "salicyclic acid medipen",
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/survival",
+          "name": "survival medipen",
+          "amount": 5.0
         }
       ],
       "grindings": [],
@@ -38717,12 +39849,12 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/dexalin",
           "name": "large blue hypovial (dexalin)",
-          "amount": 60.0
+          "amount": 120.0
         },
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/dexalin",
           "name": "blue hypovial (dexalin)",
-          "amount": 30.0
+          "amount": 60.0
         }
       ],
       "grindings": [],
@@ -38990,6 +40122,11 @@
           "amount": 10.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/survival/luxury",
+          "name": "элитный медипен",
+          "amount": 10.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/tuberculosiscure",
           "name": "BVAK autoinjector",
           "amount": 10.0
@@ -39003,6 +40140,43 @@
           "typepath": "/obj/item/reagent_containers/syringe/epinephrine",
           "name": "syringe (epinephrine)",
           "amount": 15.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/medicine/ferrocortex": {
+      "name": "Ferrocortex",
+      "desc": "Специализированный электрохимический состав с высокой проводимостью. Заполняет повреждённые узлы, изменясь под пластику движений пользователя и затвердевая со временем. Может заменять функцию проводника в теле КПБ.",
+      "typepath": "/datum/reagent/medicine/ferrocortex",
+      "process_flags": "AllProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 20.0,
+      "ph": 7.0,
+      "color": "#6a6881",
+      "value": "Exceptional",
+      "taste_description": "bitterness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/ferrocortex",
+          "name": "ferrocortex injector",
+          "amount": 12.0
         }
       ],
       "grindings": [],
@@ -39240,12 +40414,22 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/kelotane",
           "name": "large orange hypovial (kelotane)",
-          "amount": 60.0
+          "amount": 120.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/multi_heal",
+          "name": "large hypovial (first-aid)",
+          "amount": 30.0
         },
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/kelotane",
           "name": "orange hypovial (kelotane)",
-          "amount": 30.0
+          "amount": 60.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/multi_heal",
+          "name": "hypovial (first-aid)",
+          "amount": 15.0
         },
         {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/firelocker",
@@ -39554,6 +40738,11 @@
           "amount": 10.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/survival/luxury",
+          "name": "элитный медипен",
+          "amount": 5.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/pill/mannitol",
           "name": "mannitol pill",
           "amount": 25.0
@@ -39620,7 +40809,13 @@
           "fermi": null
         }
       ],
-      "containers": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/mine_salve",
+          "name": "large blue hypovial (miners salve)",
+          "amount": 120.0
+        }
+      ],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": [
@@ -39783,7 +40978,7 @@
         },
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/morphine",
-          "name": "unlabeled syringe",
+          "name": "M syringe",
           "amount": 15.0
         }
       ],
@@ -39998,6 +41193,48 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/medicine/nostromo": {
+      "name": "Ностромо-7",
+      "desc": "Вытравливает эмбриона чужого из организма концентрированными щелочными соединениями, однако оказывает тяжелейшее угнетающее воздействие на организм.",
+      "typepath": "/datum/reagent/medicine/nostromo",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.05,
+      "overdose_threshold": 0.0,
+      "ph": 10.0,
+      "color": "#046104",
+      "value": "VeryCommon",
+      "taste_description": "серная кислота",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/nostromo",
+          "name": "Ностромо-7",
+          "amount": 4.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/sputnik_lite",
+          "name": "Спутник Лайт",
+          "amount": 4.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/medicine/oculine": {
       "name": "Oculine",
       "desc": "Quickly restores eye damage, cures nearsightedness, and has a chance to restore vision to the blind.",
@@ -40099,6 +41336,16 @@
       "recipes": [],
       "containers": [
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/vulpix/cheese/warm",
+          "name": "\\improper MacVulpix Triple-Cheese",
+          "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/vulpix/warm",
+          "name": "\\improper MacVulpix Original Taste",
+          "amount": 3.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/donkpocket/warm",
           "name": "warm Donk-pocket",
           "amount": 3.0
@@ -40131,6 +41378,11 @@
         {
           "typepath": "/obj/item/reagent_containers/food/snacks/spiderlollipop",
           "name": "spider lollipop",
+          "amount": 2.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/food/snacks/swirl_lollipop",
+          "name": "Swirl Lollipop",
           "amount": 2.0
         },
         {
@@ -40692,6 +41944,48 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/medicine/raccoon": {
+      "name": "Раккун-2",
+      "desc": "Подавляет опухоль Ромерола и излечивает от Зомби-вируса, однако оказывает тяжелейшее угнетающее воздействие на организм.",
+      "typepath": "/datum/reagent/medicine/raccoon",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.05,
+      "overdose_threshold": 0.0,
+      "ph": 10.0,
+      "color": "#046104",
+      "value": "VeryCommon",
+      "taste_description": "смерть",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/raccoon",
+          "name": "Раккун-2",
+          "amount": 4.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/sputnik_lite",
+          "name": "Спутник Лайт",
+          "amount": 4.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/medicine/regen_jelly": {
       "name": "Regenerative Jelly",
       "desc": "Gradually regenerates all types of damage, without harming slime anatomy.",
@@ -40925,6 +42219,11 @@
           "amount": 10.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/survival/luxury",
+          "name": "элитный медипен",
+          "amount": 5.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/tuberculosiscure",
           "name": "BVAK autoinjector",
           "amount": 20.0
@@ -40990,7 +42289,7 @@
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/salglu",
           "name": "large green hypovial (salglu)",
-          "amount": 60.0
+          "amount": 120.0
         },
         {
           "typepath": "/obj/item/reagent_containers/hypospray/medipen/blood_loss",
@@ -41006,6 +42305,37 @@
           "grind_type": "Grinding"
         }
       ],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/medicine/sansufentanyl": {
+      "name": "Sansufentanyl",
+      "desc": "Used to treat Hereditary Manifold Sickness. Temporary side effects include - nausea, dizziness, impaired motor coordination.",
+      "typepath": "/datum/reagent/medicine/sansufentanyl",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 6.2,
+      "color": "#07e4d1",
+      "value": "VeryCommon",
+      "taste_description": "bitterness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
     },
@@ -41911,7 +43241,7 @@
           "typepath": "/datum/chemical_reaction/tricordrazine",
           "mix_message": null,
           "produced_amount": 3.0,
-          "required_temp": 0.0,
+          "required_temp": 480.0,
           "subproducts": {},
           "required": {
             "/datum/reagent/medicine/antitoxin": 1.0,
@@ -41930,14 +43260,24 @@
           "amount": 10.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/multi_heal",
+          "name": "large hypovial (first-aid)",
+          "amount": 30.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/large/tricord",
           "name": "large hypovial (tricord)",
-          "amount": 60.0
+          "amount": 120.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/multi_heal",
+          "name": "hypovial (first-aid)",
+          "amount": 15.0
         },
         {
           "typepath": "/obj/item/reagent_containers/glass/bottle/vial/small/tricord",
           "name": "hypovial (tricordrazine)",
-          "amount": 30.0
+          "amount": 60.0
         }
       ],
       "grindings": [],
@@ -42955,6 +44295,43 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/nanite_protector": {
+      "name": "Nanite Protector",
+      "desc": "Серая масса непонятного происхождения. При попадании в организм она необратимо меняет клетки и перестраивает структуры, не давая им взаимодействовать с нанитами.",
+      "typepath": "/datum/reagent/nanite_protector",
+      "process_flags": "AllProcess",
+      "state": "Gas",
+      "metabolization_rate": 1.0,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#666666",
+      "value": "None",
+      "taste_description": "metaphorical salt",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/nanite_protector",
+          "name": "Nanite Protector autoinjector",
+          "amount": 3.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/nanomachines": {
       "name": "Nanomachines",
       "desc": "Microscopic construction robots.",
@@ -43039,6 +44416,68 @@
           "fermi": null
         }
       ],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/nitrium_high_metabolization": {
+      "name": "Nitrosyl plasmide",
+      "desc": "A highly reactive byproduct that stops you from sleeping, while dealing increasing toxin damage over time.",
+      "typepath": "/datum/reagent/nitrium_high_metabolization",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 0.0,
+      "ph": 1.8,
+      "color": "#E1A116",
+      "value": "VeryRare",
+      "taste_description": "sourness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/nitrium_low_metabolization": {
+      "name": "Nitrium",
+      "desc": "A highly reactive gas that makes you feel faster.",
+      "typepath": "/datum/reagent/nitrium_low_metabolization",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 0.0,
+      "ph": 2.0,
+      "color": "#90560B",
+      "value": "VeryRare",
+      "taste_description": "burning",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
       "containers": [],
       "grindings": [],
       "r_dispensers": [],
@@ -43511,42 +44950,6 @@
           "name": "glowstick",
           "amount": 5.0,
           "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/blue",
-          "name": "blue glowstick",
-          "amount": 5.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/cyan",
-          "name": "cyan glowstick",
-          "amount": 5.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/orange",
-          "name": "orange glowstick",
-          "amount": 5.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/pink",
-          "name": "pink glowstick",
-          "amount": 5.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/red",
-          "name": "red glowstick",
-          "amount": 5.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/yellow",
-          "name": "yellow glowstick",
-          "amount": 5.0,
-          "grind_type": "Grinding"
         }
       ],
       "r_dispensers": [],
@@ -43824,42 +45227,6 @@
         {
           "typepath": "/obj/item/flashlight/glowstick",
           "name": "glowstick",
-          "amount": 15.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/blue",
-          "name": "blue glowstick",
-          "amount": 15.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/cyan",
-          "name": "cyan glowstick",
-          "amount": 15.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/orange",
-          "name": "orange glowstick",
-          "amount": 15.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/pink",
-          "name": "pink glowstick",
-          "amount": 15.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/red",
-          "name": "red glowstick",
-          "amount": 15.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/flashlight/glowstick/yellow",
-          "name": "yellow glowstick",
           "amount": 15.0,
           "grind_type": "Grinding"
         }
@@ -44265,6 +45632,37 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/pluoxium": {
+      "name": "Pluoxium",
+      "desc": "A gas that is eight times more efficient than O2 at lung diffusion with organ healing properties on sleeping patients.",
+      "typepath": "/datum/reagent/pluoxium",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.1,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#808080",
+      "value": "VeryRare",
+      "taste_description": "irradiated air",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/potassium": {
       "name": "Potassium",
       "desc": "A soft, low-melting solid that can easily be cut with a knife. Reacts violently with water.",
@@ -44382,8 +45780,44 @@
           "typepath": "/obj/item/reagent_containers/hypospray/medipen",
           "name": "epinephrine medipen",
           "amount": 3.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/atropine",
+          "name": "atropine autoinjector",
+          "amount": 3.0
         }
       ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/proto_nitrate": {
+      "name": "Proto Nitrate",
+      "desc": "Crystallized proto nitrate. Extremely radioactive in living tissue; about 20 units is a lethal dose.",
+      "typepath": "/datum/reagent/proto_nitrate",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 1.5,
+      "color": "#44dd66",
+      "value": "VeryRare",
+      "taste_description": "charged static",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
@@ -44514,7 +45948,13 @@
         }
       ],
       "grindings": [],
-      "r_dispensers": [],
+      "r_dispensers": [
+        {
+          "typepath": "/obj/structure/reagent_dispensers/urbanismbarrel/radium",
+          "name": "Radium barrel",
+          "amount": 300.0
+        }
+      ],
       "c_dispensers": [
         {
           "typepath": "/obj/machinery/chem_dispenser",
@@ -44601,8 +46041,44 @@
           "typepath": "/obj/item/reagent_containers/glass/bottle/romerol",
           "name": "Romerol Bottle",
           "amount": 30.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/glass/bottle/romerol_interdyne",
+          "name": "INT-RMRL Vial",
+          "amount": 30.0
         }
       ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
+    "/datum/reagent/romerol/lethal": {
+      "name": "Romerol",
+      "desc": "Romerol is a highly experimental bioterror agent which causes dormant nodules to be etched into the grey matter of the subject. These nodules only become active upon death of the host, upon which, the secondary structures activate and take control of the host body.",
+      "typepath": "/datum/reagent/romerol/lethal",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 1e31,
+      "overdose_threshold": 0.0,
+      "ph": 0.5,
+      "color": "#123524",
+      "value": "Glorious",
+      "taste_description": "brains",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
@@ -45129,6 +46605,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/computer/brig_assistant_console",
+          "name": "Brig Assistant Tasks Console (Computer Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/computer/bsa_control",
           "name": "Bluespace Artillery Controls (Computer Board)",
           "amount": 20.0,
@@ -45177,24 +46659,6 @@
           "grind_type": "Grinding"
         },
         {
-          "typepath": "/obj/item/circuitboard/computer/card",
-          "name": "ID Console (Computer Board)",
-          "amount": 20.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/circuitboard/computer/card/centcom",
-          "name": "CentCom ID Console (Computer Board)",
-          "amount": 20.0,
-          "grind_type": "Grinding"
-        },
-        {
-          "typepath": "/obj/item/circuitboard/computer/card/minor",
-          "name": "Department Management Console (Computer Board)",
-          "amount": 20.0,
-          "grind_type": "Grinding"
-        },
-        {
           "typepath": "/obj/item/circuitboard/computer/cargo",
           "name": "Supply Console (Computer Board)",
           "amount": 20.0,
@@ -45239,6 +46703,12 @@
         {
           "typepath": "/obj/item/circuitboard/computer/communications",
           "name": "Communications (Computer Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/computer/contrabandpad",
+          "name": "Contraband Exchange Terminal (Computer Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -45293,6 +46763,12 @@
         {
           "typepath": "/obj/item/circuitboard/computer/inteq_collosus",
           "name": "Collosus Control Console (Computer Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/computer/inteq_pact_siege",
+          "name": "InteQ Bluespace Evac Console (Computer Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -45687,6 +47163,42 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/HFR_core",
+          "name": "HFR core (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/HFR_corner",
+          "name": "HFR Corner (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/HFR_fuel_input",
+          "name": "HFR Fuel Input (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/HFR_interface",
+          "name": "HFR Interface (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/HFR_moderator_input",
+          "name": "HFR Moderator Input (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/HFR_waste_output",
+          "name": "HFR Waste Output (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/abductor",
           "name": "alien board (Report This)",
           "amount": 20.0,
@@ -45699,8 +47211,20 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/ammo_workbench",
+          "name": "Ammunition Workbench (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/announcement_system",
           "name": "Announcement System (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/astro_sensor",
+          "name": "Astrometric Sensor (Machine Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -45771,6 +47295,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/big_manipulator",
+          "name": "Big Manipulator (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/biogenerator",
           "name": "Biogenerator (Machine Board)",
           "amount": 20.0,
@@ -45797,6 +47327,18 @@
         {
           "typepath": "/obj/item/circuitboard/machine/bountypad",
           "name": "Civilian Bounty Pad (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/bountyvend",
+          "name": "BountyVend (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/bountyvend/plus",
+          "name": "BountyVend Expert (Machine Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -45927,6 +47469,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/circuit_imprinter/department/science/robotic",
+          "name": "Departmental Circuit Imprinter - Robotics (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/circuit_imprinter/hacked",
           "name": "Hacked Imprinter (Machine Board)",
           "amount": 20.0,
@@ -45975,6 +47523,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/contrabandpad",
+          "name": "Contraband Exchange Pad (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/cryo_tube",
           "name": "Cryotube (Machine Board)",
           "amount": 20.0,
@@ -45989,6 +47543,12 @@
         {
           "typepath": "/obj/item/circuitboard/machine/cryptominer/syndie",
           "name": "Syndicate Cryptocurrency Miner (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/crystallizer",
+          "name": "Crystallizer (Machine Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -46025,6 +47585,12 @@
         {
           "typepath": "/obj/item/circuitboard/machine/dnascanner",
           "name": "DNA Scanner (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/electrolyzer",
+          "name": "Electrolyzer (Machine Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -46137,6 +47703,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/ipc_constructor",
+          "name": "Synthetic Constructor (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/launchpad",
           "name": "Bluespace Launchpad (Machine Board)",
           "amount": 20.0,
@@ -46151,6 +47723,18 @@
         {
           "typepath": "/obj/item/circuitboard/machine/ltsrbt",
           "name": "LTSRBT (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/manucrafter",
+          "name": "Manufacturing Assembling Machine (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/manucrafter/cooker",
+          "name": "Manufacturing Cooking Machine (Machine Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -46431,6 +48015,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/circuitboard/machine/rodstopper",
+          "name": "Rodstopper (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/circuitboard/machine/rtg",
           "name": "RTG (Machine Board)",
           "amount": 20.0,
@@ -46523,6 +48113,12 @@
         {
           "typepath": "/obj/item/circuitboard/machine/smoke_machine",
           "name": "Smoke Machine (Machine Board)",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/circuitboard/machine/snow_machine",
+          "name": "Snow Machine (Machine Board)",
           "amount": 20.0,
           "grind_type": "Grinding"
         },
@@ -47055,6 +48651,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/stack/sheet/glass/twenty",
+          "name": "glass",
+          "amount": 20.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/stack/sheet/plasmaglass",
           "name": "plasma glass",
           "amount": 20.0,
@@ -47235,6 +48837,12 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/stock_parts/cell/hyeseong_internal_cell",
+          "name": "\\improper Hyeseong modular laser rifle internal cell",
+          "amount": 5.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/stock_parts/cell/hyper",
           "name": "hyper-capacity power cell",
           "amount": 5.0,
@@ -47351,6 +48959,12 @@
         {
           "typepath": "/obj/item/stock_parts/cell/super/empty",
           "name": "super-capacity power cell",
+          "amount": 5.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/stock_parts/cell/thermal",
+          "name": "thermal power cell",
           "amount": 5.0,
           "grind_type": "Grinding"
         },
@@ -47935,6 +49549,37 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/space_cleaner/gentle": {
+      "name": "Foaming space cleaner",
+      "desc": "A gentler cleaning compound that dissolves grime while sparing paint and artwork.",
+      "typepath": "/datum/reagent/space_cleaner/gentle",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.2,
+      "overdose_threshold": 0.0,
+      "ph": 5.5,
+      "color": "#A5F0EE",
+      "value": "None",
+      "taste_description": "sourness",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/space_cleaner/sterilizine": {
       "name": "Sterilizine",
       "desc": "Sterilizes wounds in preparation for surgery.",
@@ -48237,7 +49882,19 @@
           "grind_type": "Grinding"
         },
         {
+          "typepath": "/obj/item/flashlight/flare/plasma_projectile",
+          "name": "plasma flare",
+          "amount": 15.0,
+          "grind_type": "Grinding"
+        },
+        {
           "typepath": "/obj/item/flashlight/flare/torch",
+          "name": "torch",
+          "amount": 15.0,
+          "grind_type": "Grinding"
+        },
+        {
+          "typepath": "/obj/item/flashlight/flare/torch/pocket",
           "name": "torch",
           "amount": 15.0,
           "grind_type": "Grinding"
@@ -49583,12 +51240,12 @@
     },
     "/datum/reagent/toxin/fentanyl": {
       "name": "Fentanyl",
-      "desc": "Fentanyl will inhibit brain function and cause toxin damage before eventually knocking out its victim.",
+      "desc": "A potent synthetic opioid. Sedates and damages the brain at low doses; overdoses above 5u cause respiratory failure, delirium, and incoherent speech.",
       "typepath": "/datum/reagent/toxin/fentanyl",
       "process_flags": "OrganicProcess",
       "state": "Gas",
       "metabolization_rate": 0.1,
-      "overdose_threshold": 0.0,
+      "overdose_threshold": 6.0,
       "ph": 7.0,
       "color": "#64916E",
       "value": "Common",
@@ -49608,17 +51265,38 @@
       "parsed_shot_glass_icon": null,
       "recipes": [
         {
-          "typepath": "/datum/chemical_reaction/fentanyl",
-          "mix_message": null,
+          "typepath": "/datum/chemical_reaction/fermi/fentanyl",
+          "mix_message": "<span class='danger'>The beaker froths violently as the opioid base cyclizes.</span>",
           "produced_amount": 1.0,
-          "required_temp": 674.0,
+          "required_temp": 0.0,
           "subproducts": {},
           "required": {
-            "/datum/reagent/drug/space_drugs": 1.0
+            "/datum/reagent/ammonia": 1.0,
+            "/datum/reagent/diethylamine": 1.0,
+            "/datum/reagent/medicine/morphine": 2.0,
+            "/datum/reagent/medicine/sal_acid": 1.0,
+            "/datum/reagent/phenol": 1.0
           },
-          "catalysts": {},
+          "catalysts": {
+            "/datum/reagent/toxin/acid/fluacid": 0.5
+          },
           "required_container": null,
-          "fermi": null
+          "fermi": {
+            "optimal_temp_min": 620.0,
+            "optimal_temp_max": 680.0,
+            "explode_temp": 750.0,
+            "optimalp_hmin": 2.0,
+            "optimalp_hmax": 5.0,
+            "reactp_hlim": 3.0,
+            "catalyst_fact": 0.0,
+            "curve_sharp_t": 2.0,
+            "curve_sharpp_h": 2.0,
+            "thermic_constant": 1.0,
+            "hion_release": 0.1,
+            "rate_up_lim": 10.0,
+            "fermi_explode": false,
+            "purity_min": 0.35
+          }
         }
       ],
       "containers": [
@@ -49629,7 +51307,7 @@
         },
         {
           "typepath": "/obj/item/reagent_containers/syringe/contraband/fentanyl",
-          "name": "unlabeled syringe",
+          "name": "F syringe",
           "amount": 15.0
         }
       ],
@@ -51606,6 +53284,53 @@
       "r_dispensers": [],
       "c_dispensers": []
     },
+    "/datum/reagent/toxin/zed": {
+      "name": "Зед-4",
+      "desc": "Контропаразитный препарат. Оказывает тяжелейшее угнетающее воздействие на организм.",
+      "typepath": "/datum/reagent/toxin/zed",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.05,
+      "overdose_threshold": 0.0,
+      "ph": 10.0,
+      "color": "#046104",
+      "value": "Common",
+      "taste_description": "смерть",
+      "taste_mult": 1.2,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/nostromo",
+          "name": "Ностромо-7",
+          "amount": 4.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/raccoon",
+          "name": "Раккун-2",
+          "amount": 4.0
+        },
+        {
+          "typepath": "/obj/item/reagent_containers/hypospray/medipen/sputnik_lite",
+          "name": "Спутник Лайт",
+          "amount": 2.0
+        }
+      ],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
+    },
     "/datum/reagent/toxin/zombiepowder": {
       "name": "Zombie Powder",
       "desc": "A strong neurotoxin that puts the subject into a death-like state.",
@@ -51940,7 +53665,7 @@
       "metabolization_rate": 0.2,
       "overdose_threshold": 150.0,
       "ph": 7.0,
-      "color": "#AAAAAA77",
+      "color": "#87D3F883",
       "value": "None",
       "taste_description": "water",
       "taste_mult": 1.0,
@@ -52040,6 +53765,11 @@
           "amount": 5.0
         },
         {
+          "typepath": "/obj/item/reagent_containers/food/snacks/soup/shrimp",
+          "name": "shrimp soup",
+          "amount": 5.0
+        },
+        {
           "typepath": "/obj/item/reagent_containers/food/snacks/soup/slime",
           "name": "slime soup",
           "amount": 5.0
@@ -52066,7 +53796,7 @@
         },
         {
           "typepath": "/obj/item/reagent_containers/glass/beaker/waterbottle/large",
-          "name": "bottle of water",
+          "name": "large bottle of water",
           "amount": 100.0
         },
         {
@@ -52132,7 +53862,7 @@
         {
           "typepath": "/obj/structure/reagent_dispensers/watertank/high",
           "name": "high-capacity water tank",
-          "amount": 100000.0
+          "amount": 3000.0
         }
       ],
       "c_dispensers": [
@@ -52223,15 +53953,15 @@
         {
           "typepath": "/datum/chemical_reaction/holywater",
           "mix_message": null,
-          "produced_amount": 1.0,
+          "produced_amount": 3.0,
           "required_temp": 0.0,
           "subproducts": {},
           "required": {
-            "/datum/reagent/water/hollowwater": 1.0
+            "/datum/reagent/consumable/ethanol/wine": 1.0,
+            "/datum/reagent/mercury": 1.0,
+            "/datum/reagent/water": 1.0
           },
-          "catalysts": {
-            "/datum/reagent/water/holywater": 1.0
-          },
+          "catalysts": {},
           "required_container": null,
           "fermi": null
         }
@@ -52371,6 +54101,37 @@
       "grindings": [],
       "r_dispensers": [],
       "c_dispensers": []
+    },
+    "/datum/reagent/zauker": {
+      "name": "Zauker",
+      "desc": "An unstable gas that is toxic to all living beings.",
+      "typepath": "/datum/reagent/zauker",
+      "process_flags": "OrganicProcess",
+      "state": "Gas",
+      "metabolization_rate": 0.5,
+      "overdose_threshold": 0.0,
+      "ph": 7.0,
+      "color": "#90560B",
+      "value": "VeryRare",
+      "taste_description": "bitter",
+      "taste_mult": 1.0,
+      "addiction_threshold": 0.0,
+      "quality": null,
+      "boozepwr": 0.0,
+      "species_required": null,
+      "glass_name": null,
+      "glass_desc": null,
+      "glass_icon": null,
+      "shot_glass_icon": null,
+      "glass_icon_state": null,
+      "shot_glass_icon_state": null,
+      "parsed_glass_icon": null,
+      "parsed_shot_glass_icon": null,
+      "recipes": [],
+      "containers": [],
+      "grindings": [],
+      "r_dispensers": [],
+      "c_dispensers": []
     }
   },
   "freestanding_reactions": {
@@ -52463,35 +54224,6 @@
       "required_container": null,
       "fermi": null
     },
-    "/datum/chemical_reaction/cakebatter": {
-      "typepath": "/datum/chemical_reaction/cakebatter",
-      "mix_message": "The ingredients form a cake batter.",
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/eggwhite": 10.0,
-        "/datum/reagent/consumable/eggyolk": 5.0,
-        "/datum/reagent/consumable/flour": 15.0,
-        "/datum/reagent/consumable/sugar": 5.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/cakebatter/vegan": {
-      "typepath": "/datum/chemical_reaction/cakebatter/vegan",
-      "mix_message": "The ingredients form a cake batter.",
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/flour": 15.0,
-        "/datum/reagent/consumable/soymilk": 15.0,
-        "/datum/reagent/consumable/sugar": 5.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
     "/datum/chemical_reaction/candlefication": {
       "typepath": "/datum/chemical_reaction/candlefication",
       "mix_message": null,
@@ -52515,47 +54247,6 @@
       "required_container": null,
       "fermi": null
     },
-    "/datum/chemical_reaction/cheesewheel": {
-      "typepath": "/datum/chemical_reaction/cheesewheel",
-      "mix_message": null,
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/milk": 40.0
-      },
-      "catalysts": {
-        "/datum/reagent/consumable/enzyme": 5.0
-      },
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/chocolate_bar": {
-      "typepath": "/datum/chemical_reaction/chocolate_bar",
-      "mix_message": null,
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/coco": 2.0,
-        "/datum/reagent/consumable/soymilk": 2.0,
-        "/datum/reagent/consumable/sugar": 2.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/chocolate_bar2": {
-      "typepath": "/datum/chemical_reaction/chocolate_bar2",
-      "mix_message": null,
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/milk/chocolate_milk": 4.0,
-        "/datum/reagent/consumable/sugar": 2.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
     "/datum/chemical_reaction/corgium": {
       "typepath": "/datum/chemical_reaction/corgium",
       "mix_message": null,
@@ -52568,19 +54259,6 @@
       },
       "catalysts": {},
       "required_temp": 374.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/dough": {
-      "typepath": "/datum/chemical_reaction/dough",
-      "mix_message": "The ingredients form a dough.",
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/flour": 15.0,
-        "/datum/reagent/water": 10.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
       "required_container": null,
       "fermi": null
     },
@@ -52637,6 +54315,216 @@
       "required_container": null,
       "fermi": null
     },
+    "/datum/chemical_reaction/food": {
+      "typepath": "/datum/chemical_reaction/food",
+      "mix_message": null,
+      "results": {},
+      "required": {},
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/cakebatter": {
+      "typepath": "/datum/chemical_reaction/food/cakebatter",
+      "mix_message": "The ingredients form a cake batter.",
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/eggwhite": 10.0,
+        "/datum/reagent/consumable/eggyolk": 5.0,
+        "/datum/reagent/consumable/flour": 15.0,
+        "/datum/reagent/consumable/sugar": 5.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/cakebatter/vegan": {
+      "typepath": "/datum/chemical_reaction/food/cakebatter/vegan",
+      "mix_message": "The ingredients form a cake batter.",
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/flour": 15.0,
+        "/datum/reagent/consumable/soymilk": 15.0,
+        "/datum/reagent/consumable/sugar": 5.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/cheesewheel": {
+      "typepath": "/datum/chemical_reaction/food/cheesewheel",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/milk": 40.0
+      },
+      "catalysts": {
+        "/datum/reagent/consumable/enzyme": 5.0
+      },
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/chocolate_bar": {
+      "typepath": "/datum/chemical_reaction/food/chocolate_bar",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/coco": 2.0,
+        "/datum/reagent/consumable/soymilk": 2.0,
+        "/datum/reagent/consumable/sugar": 2.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/chocolate_bar2": {
+      "typepath": "/datum/chemical_reaction/food/chocolate_bar2",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/milk/chocolate_milk": 4.0,
+        "/datum/reagent/consumable/sugar": 2.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/curd": {
+      "typepath": "/datum/chemical_reaction/food/curd",
+      "mix_message": "The milk curdles into curd.",
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/cream": 5.0,
+        "/datum/reagent/consumable/milk": 15.0,
+        "/datum/reagent/consumable/vinegar": 5.0
+      },
+      "catalysts": {},
+      "required_temp": 353.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/dough": {
+      "typepath": "/datum/chemical_reaction/food/dough",
+      "mix_message": "The ingredients form a dough.",
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/flour": 15.0,
+        "/datum/reagent/water": 10.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/imitationcarpmeat": {
+      "typepath": "/datum/chemical_reaction/food/imitationcarpmeat",
+      "mix_message": "The mixture becomes similar to carp meat.",
+      "results": {},
+      "required": {
+        "/datum/reagent/toxin/carpotoxin": 5.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": "/obj/item/reagent_containers/food/snacks/tofu",
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/margarine": {
+      "typepath": "/datum/chemical_reaction/food/margarine",
+      "mix_message": "The ingredients solidify into a stick of margarine.",
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/cornoil": 5.0,
+        "/datum/reagent/consumable/sodiumchloride": 1.0,
+        "/datum/reagent/consumable/soymilk": 5.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/ricebowl": {
+      "typepath": "/datum/chemical_reaction/food/ricebowl",
+      "mix_message": "The rice absorbs the water.",
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/rice": 10.0,
+        "/datum/reagent/water": 10.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": "/obj/item/reagent_containers/glass/bowl",
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/soup": {
+      "typepath": "/datum/chemical_reaction/food/soup",
+      "mix_message": null,
+      "results": {},
+      "required": {},
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/synthmeat": {
+      "typepath": "/datum/chemical_reaction/food/synthmeat",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/blood": 5.0,
+        "/datum/reagent/medicine/cryoxadone": 1.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/synthmeat/synthblood": {
+      "typepath": "/datum/chemical_reaction/food/synthmeat/synthblood",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/blood/synthetics": 5.0,
+        "/datum/reagent/medicine/cryoxadone": 1.0
+      },
+      "catalysts": {},
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/food/tofu": {
+      "typepath": "/datum/chemical_reaction/food/tofu",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/consumable/soymilk": 10.0
+      },
+      "catalysts": {
+        "/datum/reagent/consumable/enzyme": 5.0
+      },
+      "required_temp": 0.0,
+      "required_container": null,
+      "fermi": null
+    },
+    "/datum/chemical_reaction/freebase_cocaine": {
+      "typepath": "/datum/chemical_reaction/freebase_cocaine",
+      "mix_message": null,
+      "results": {},
+      "required": {
+        "/datum/reagent/ash": 10.0,
+        "/datum/reagent/drug/cocaine": 10.0,
+        "/datum/reagent/water": 5.0
+      },
+      "catalysts": {},
+      "required_temp": 480.0,
+      "required_container": null,
+      "fermi": null
+    },
     "/datum/chemical_reaction/goldsolidification": {
       "typepath": "/datum/chemical_reaction/goldsolidification",
       "mix_message": null,
@@ -52649,18 +54537,6 @@
       "catalysts": {},
       "required_temp": 0.0,
       "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/imitationcarpmeat": {
-      "typepath": "/datum/chemical_reaction/imitationcarpmeat",
-      "mix_message": "The mixture becomes similar to carp meat.",
-      "results": {},
-      "required": {
-        "/datum/reagent/toxin/carpotoxin": 5.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": "/obj/item/reagent_containers/food/snacks/tofu",
       "fermi": null
     },
     "/datum/chemical_reaction/ironfoam": {
@@ -52778,20 +54654,6 @@
       },
       "catalysts": {},
       "required_temp": 374.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/margarine": {
-      "typepath": "/datum/chemical_reaction/margarine",
-      "mix_message": "The ingredients solidify into a stick of margarine.",
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/cornoil": 5.0,
-        "/datum/reagent/consumable/sodiumchloride": 1.0,
-        "/datum/reagent/consumable/soymilk": 5.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
       "required_container": null,
       "fermi": null
     },
@@ -53263,6 +55125,18 @@
       "required_container": null,
       "fermi": null
     },
+    "/datum/chemical_reaction/powder_cocaine": {
+      "typepath": "/datum/chemical_reaction/powder_cocaine",
+      "mix_message": "The solution freezes into a powder!",
+      "results": {},
+      "required": {
+        "/datum/reagent/drug/cocaine": 10.0
+      },
+      "catalysts": {},
+      "required_temp": 250.0,
+      "required_container": null,
+      "fermi": null
+    },
     "/datum/chemical_reaction/powder_heroin": {
       "typepath": "/datum/chemical_reaction/powder_heroin",
       "mix_message": "Смесь кристаллизируется, застывает и формируется в порошочек грязно-молочного цвета.",
@@ -53399,19 +55273,6 @@
       "catalysts": {},
       "required_temp": 474.0,
       "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/ricebowl": {
-      "typepath": "/datum/chemical_reaction/ricebowl",
-      "mix_message": "The rice absorbs the water.",
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/rice": 10.0,
-        "/datum/reagent/water": 10.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": "/obj/item/reagent_containers/glass/bowl",
       "fermi": null
     },
     "/datum/chemical_reaction/slime/adamantine": {
@@ -53993,46 +55854,6 @@
       },
       "catalysts": {},
       "required_temp": 474.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/synthmeat": {
-      "typepath": "/datum/chemical_reaction/synthmeat",
-      "mix_message": null,
-      "results": {},
-      "required": {
-        "/datum/reagent/blood": 5.0,
-        "/datum/reagent/medicine/cryoxadone": 1.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/synthmeat/synthblood": {
-      "typepath": "/datum/chemical_reaction/synthmeat/synthblood",
-      "mix_message": null,
-      "results": {},
-      "required": {
-        "/datum/reagent/blood/synthetics": 5.0,
-        "/datum/reagent/medicine/cryoxadone": 1.0
-      },
-      "catalysts": {},
-      "required_temp": 0.0,
-      "required_container": null,
-      "fermi": null
-    },
-    "/datum/chemical_reaction/tofu": {
-      "typepath": "/datum/chemical_reaction/tofu",
-      "mix_message": null,
-      "results": {},
-      "required": {
-        "/datum/reagent/consumable/soymilk": 10.0
-      },
-      "catalysts": {
-        "/datum/reagent/consumable/enzyme": 5.0
-      },
-      "required_temp": 0.0,
       "required_container": null,
       "fermi": null
     },
